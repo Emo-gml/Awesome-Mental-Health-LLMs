@@ -57,12 +57,16 @@ to support the Awesome-Mental-Health-LLMs project ✨
 - (*Arxiv'25*) Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System [[📝 Paper](https://arxiv.org/abs/2506.07997)] 
 ### 2.4 Ensuring Safety, Reliability, and Responsible Development
 - (*EMNLP'25*) EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety [[📝 Paper](https://aclanthology.org/2025.emnlp-main.594/)] 
-- (*CLPsych'25*) AutoPsyC: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models [[📝 Paper](https://aclanthology.org/2025.clpsych-1.2/)] [[💻 Code](https://git.opendfki.de/philipp.mueller/autopsyc)]
-- (*CLPsych'25*) AutoPsyC: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models [[📝 Paper](https://aclanthology.org/2025.clpsych-1.2/)] [[💻 Code](https://git.opendfki.de/philipp.mueller/autopsyc)]
-- (*CLPsych'25*) AutoPsyC: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models [[📝 Paper](https://aclanthology.org/2025.clpsych-1.2/)] [[💻 Code](https://git.opendfki.de/philipp.mueller/autopsyc)]
-- (*CLPsych'25*) AutoPsyC: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models [[📝 Paper](https://aclanthology.org/2025.clpsych-1.2/)] [[💻 Code](https://git.opendfki.de/philipp.mueller/autopsyc)]
-- (*CLPsych'25*) AutoPsyC: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models [[📝 Paper](https://aclanthology.org/2025.clpsych-1.2/)] [[💻 Code](https://git.opendfki.de/philipp.mueller/autopsyc)]
-- (*CLPsych'25*) AutoPsyC: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models [[📝 Paper](https://aclanthology.org/2025.clpsych-1.2/)] [[💻 Code](https://git.opendfki.de/philipp.mueller/autopsyc)]
+- (*Arxiv'25*) PsyLite Technical Report [[📝 Paper](https://arxiv.org/abs/2506.21536)] [[💻 Code](https://github.com/Jundifang/PsyLite)]
+- (*Arxiv'25*) RHealthTwin: Towards Responsible and Multimodal Digital Twins for Personalized Well-being [[📝 Paper](https://arxiv.org/abs/2506.08486)] [[💻 Code](https://github.com/turna1/ResponsibleHealthTwin-RHT-)]
+- (*Arxiv'25*) Ψ-Arena: Interactive Assessment and Optimization of LLM-based Psychological Counselors with Tripartite Feedback [[📝 Paper](https://arxiv.org/abs/2505.03293)]
+- (*Arxiv'25*) Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling [[📝 Paper](https://arxiv.org/abs/2503.03607)] [[💻 Code](
+https://ckqqqq.github.io/Demo/Psy-Insight/)]
+- (*Arxiv'25*) Development and Evaluation of HopeBot: an LLM-based chatbot for structured and interactive PHQ-9 depression screening [[📝 Paper](https://arxiv.org/abs/2507.05984)]
+- (*EMNLP'24*) PATIENT-𝜓: Using Large Language Models to Simulate Patients for Training Mental Health Professionals [[📝 Paper](https://aclanthology.org/2024.emnlp-main.711/)] [[💻 Code](https://github.com/ruiyiw/patient-psi)]
+- (*EMNLP'24*) Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles [[📝 Paper](https://aclanthology.org/2024.emnlp-main.591/)] [[💻 Code](https://roleplay-doh.github.io/)]
+- (*Arxiv'25*) Modeling Challenging Patient Interactions: LLMs for Medical Communication Training [[📝 Paper](https://arxiv.org/abs/2503.22250)]
+- (*ACL'24*) Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors [[📝 Paper](https://aclanthology.org/2024.acl-long.227/)] [[💻 Code]( https://github.com/SALTNLP/counseling-feedback)]
 
 
 ## 3. Dataset 
