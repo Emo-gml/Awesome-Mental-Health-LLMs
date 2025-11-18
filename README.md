@@ -25,7 +25,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 ## 1. Large Language Models 
 
 
-## 2. LLM-Based Agent
+## 2. LLM-Based Agents
 ### 2.1 Enhancing Longitudinal Engagement and Personalization
 - (*Arxiv'25*) Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations [[📝 Paper](https://arxiv.org/abs/2506.06626)] 
 - (*AAAI'24*) MemoryBank: Enhancing Large Language Models with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2305.10250)] [[💻 Code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
