@@ -28,10 +28,14 @@ to support the Awesome-Mental-Health-LLMs project ✨
 - (*Arxiv'25*) Why Pre-trained Models Fail: Feature Entanglement in Multi-modal Depression Detection [[📝 Paper](https://arxiv.org/abs/2503.06620)] 
 - (*Arxiv'25*) ProMind-LLM: Proactive Mental Health Care via Causal Reasoning with Sensor Data [[📝 Paper](https://arxiv.org/abs/2505.14038)]
 - (*Arxiv'25*) PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation [[📝 Paper](https://arxiv.org/abs/2407.05721)] [[💻 Code](https://github.com/MindIntLab-HFUT/PsycoLLM)]
-- (*Arxiv'24*) Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory [[📝 Paper](https://arxiv.org/abs/2409.15084)]
-- (*Arxiv'24*) Advancing Conversational Psychotherapy: Integrating Privacy, Dual-Memory, and Domain Expertise with Large Language Models [[📝 Paper](https://arxiv.org/abs/2412.02987)]
-- (*Arxiv'25*) CA+: Cognition Augmented Counselor Agent Framework for Long-term Dynamic Client Engagement [[📝 Paper](https://arxiv.org/abs/2503.21365)]
-- (*ACL'25*) iPET: An Interactive Emotional Companion Dialogue System with LLM-Powered Virtual Pet World Simulation [[📝 Paper](https://aclanthology.org/2025.acl-demo.40/)]
+- (*Arxiv'24*) Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions [[📝 Paper](https://arxiv.org/abs/2408.15787)] [[💻 Code](https://github.com/qiuhuachuan/interactive-agents)]
+- (*Arxiv'25*) Fine-Tuning Open-Weight Language Models to Deliver Cognitive Behavioral Therapy for Depression: A Feasibility Study [[📝 Paper](https://arxiv.org/abs/2412.00251v2)]
+- (*lrec'24*) CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering [[📝 Paper](https://arxiv.org/abs/2403.16008)] [[💻 Code](https://huggingface.co/Hongbin37/CBT-LLM)]
+- (*EMNLP'25*) Reframe Your Life Story: Interactive Narrative Therapist and Innovative Moment Assessment with Large Language Models [[📝 Paper](https://arxiv.org/abs/2507.20241)]
+- (*Arxiv'24*) Socratic Reasoning Improves Positive Text Rewriting [[📝 Paper](https://arxiv.org/pdf/2403.03029)]
+- (*EMNLP'24*) SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support [[📝 Paper](https://arxiv.org/abs/2305.00450)] [[💻 Code](https://github.com/qiuhuachuan/smile)]
+- (*COLING'25*) SweetieChat: A Strategy-Enhanced Role-playing Framework for Diverse Scenarios Handling Emotional Support Agent [[📝 Paper](https://arxiv.org/abs/2412.08389)]
+- (*Arxiv'24*) MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media [[📝 Paper](https://arxiv.org/abs/2410.10323)] [[💻 Code](https://github.com/zwzzzQAQ/MentalGLM)]
 ### 2.2 Inference-Time Strategies for Eliciting Clinical Reasoning
 ### 3.3 Beyond Text: Integrating Multimodal Cues
 
