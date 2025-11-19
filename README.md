@@ -24,7 +24,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 ## 1. Large Language Models for mental health 
 ### 1.1 Core Methodologies for Model Adaptation
-- (*Arxiv'25*) Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling [[📝 Paper](https://arxiv.org/abs/2505.15715)] 
+- (*Arxiv'25*) Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling  [[📝 Paper](https://arxiv.org/abs/2505.15715)] [[💻 Code](https://github.com/Emo-gml/PsyLLM)]
 - (*Arxiv'25*) Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations [[📝 Paper](https://arxiv.org/abs/2506.06626)] 
 - (*AAAI'24*) MemoryBank: Enhancing Large Language Models with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2305.10250)] [[💻 Code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
 - (*ACL'25*) AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation [[📝 Paper](https://aclanthology.org/2025.findings-acl.1192/)] [[💻 Code](https://github.com/sci-m-wang/AnnaAgent)]
@@ -58,7 +58,6 @@ to support the Awesome-Mental-Health-LLMs project ✨
 - (*Arxiv'24*) COCOA: CBT-based Conversational Counseling Agent using Memory Specialized in Cognitive Distortions and Dynamic Prompt [[📝 Paper](https://arxiv.org/abs/2402.17546)]
 - (*clinicalnlp'24*) ERD: A Framework for Improving LLM Reasoning for Cognitive Distortion Classification [[📝 Paper](https://aclanthology.org/2024.clinicalnlp-1.25/)] 
 - (*Arxiv'25*) MADP: Multi-Agent Deductive Planning for Enhanced Cognitive-Behavioral Mental Health Question Answer [[📝 Paper](https://arxiv.org/abs/2501.15826)] 
-- (*Arxiv'25*) Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling [[📝 Paper](https://arxiv.org/abs/2505.15715)] [[💻 Code](https://github.com/Emo-gml/PsyLLM)]
 - (*CLPsych'25*) AutoPsyC: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models [[📝 Paper](https://aclanthology.org/2025.clpsych-1.2/)] [[💻 Code](https://git.opendfki.de/philipp.mueller/autopsyc)]
 - (*Arxiv'24*) Mixed Chain-of-Psychotherapies for Emotional Support Chatbot [[📝 Paper](https://arxiv.org/abs/2409.19533)] 
 ### 2.3 Leveraging Multi-Agent Architectures for Complex Reasoning and Interaction
