@@ -62,7 +62,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 ## 2. LLM-Based Agents
 ### 2.1 Enhancing Longitudinal Engagement and Personalization
-- (*Arxiv'25*) TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2510.25758)] 
+- (*Arxiv'25*) TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2510.25758)] [[💻 Code](https://github.com/Emo-gml/TheraMind)]
 - (*Arxiv'25*) Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations [[📝 Paper](https://arxiv.org/abs/2506.06626)] 
 - (*AAAI'24*) MemoryBank: Enhancing Large Language Models with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2305.10250)] [[💻 Code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
 - (*ACL'25*) AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation [[📝 Paper](https://aclanthology.org/2025.findings-acl.1192/)] [[💻 Code](https://github.com/sci-m-wang/AnnaAgent)]
