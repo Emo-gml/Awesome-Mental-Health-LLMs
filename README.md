@@ -123,7 +123,7 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | D4 | 2022.10 | A conversational dataset that supports symptom summary and depression detection | (*EMNLP'22*) D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat [[📝 Paper](https://aclanthology.org/2022.emnlp-main.156/)] [[💻 Code](https://x-lance.github.io/D4/)] |
 | AugESC | 2023.5 | A large-scale augmented dataset of multi-turn emotional support dialogues | (*Findings'23*) AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation [[📝 Paper](https://aclanthology.org/2023.findings-acl.99/)] [[💻 Code](https://github.com/thu-coai/AugESC)] |
 | ExTES | 2023.8 | A multi-scenario, multi-policy, large-scale dataset | (*Arxiv'23*) Building Emotional Support Chatbots in the Era of LLMs [[📝 Paper](https://arxiv.org/abs/2308.11584)] [[💻 Code](https://github.com/pandazzh2020/ExtESC)] |
-| Psych8k | 2023.9 | A dataset distilled into instruction-response pairs from real consultative conversations |
+| Psych8k | 2023.9 | A dataset distilled into instruction-response pairs from real consultative conversations | (*PGAI CIKM'23*) ChatCounselor: A Large Language Models for Mental Health Support [[📝 Paper](https://arxiv.org/abs/2309.15461)] [[💻 Code](https://github.com/EmoCareAI/ChatPsychiatrist)] |
 | SoulChatCorpus | 2023.12 | A large Chinese multi-round empathic psychological counseling dialogue dataset |
 | CPsyCounD | 2024.6 | A report-based Chinese psychological counseling dataset |
 | ESD-CoT | 2024.6 | A dataset of interpretable emotional support dialogues with chain-of-thought reasoning |
