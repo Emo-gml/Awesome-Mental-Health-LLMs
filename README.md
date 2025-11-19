@@ -41,7 +41,11 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*Arxiv'25*) DepressLLM: Interpretable domain-adapted language model for depression detection from real-world narratives [[📝 Paper](https://arxiv.org/abs/2508.08591)]
 -  (*Arxiv'25*) PsyLite Technical Report [[📝 Paper](https://arxiv.org/abs/2506.21536)] [[💻 Code](https://github.com/Jundifang/PsyLite)]
 -  (*Arxiv'25*) Enhancing Large Language Models for Detecting Mental Manipulation via Annotation-Free Data Augmentation and Anti-Curriculum Distillation [[📝 Paper](https://arxiv.org/abs/2505.15255)]
--  (*EMNLP'24*) PsyGUARD: An Automated System for Suicide Detection and Risk Assessment in Psychological Counseling[[📝 Paper]( https://aclanthology.org/2024.emnlp-main.264/)] [[💻 Code](https://github.com/qiuhuachuan/PsyGUARD)]
+-  (*EMNLP'24*) PsyGUARD: An Automated System for Suicide Detection and Risk Assessment in Psychological Counseling [[📝 Paper]( https://aclanthology.org/2024.emnlp-main.264/)] [[💻 Code](https://github.com/qiuhuachuan/PsyGUARD)]
+-  (*Arxiv'25*) Speech as a Multimodal Digital Phenotype for Multi-Task LLM-based Mental Health Prediction [[📝 Paper]( https://arxiv.org/abs/2505.23822)]
+-  (*WWW'24*) MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models [[📝 Paper]( https://arxiv.org/abs/2309.13567)]
+-  (*CSCWD'24*) PsyChat: A Client-Centric Dialogue System for Mental Health Support [[📝 Paper](https://arxiv.org/abs/2312.04262)]
+-  
 ### 2.2 Inference-Time Strategies for Eliciting Clinical Reasoning
 ### 3.3 Beyond Text: Integrating Multimodal Cues
 
