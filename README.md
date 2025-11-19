@@ -121,8 +121,8 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | PsyQA | 2021.6 | A high-quality manually annotated Chinese mental health QA dataset | (*Findings'21*) PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support [[📝 Paper](https://aclanthology.org/2021.findings-acl.130/)] [[💻 Code](https://github.com/thu-coai/PsyQA)] |
 | ESConv | 2021.8 | A high-quality, multi-turn, strategy-annotated dataset of emotionally supported conversations | (*IJCNLP'21*) Towards Emotional Support Dialog Systems [[📝 Paper](https://aclanthology.org/2021.acl-long.269/)] [[💻 Code](https://github.com/thu-coai/Emotional-Support-Conversation?tab=readme-ov-file)] |
 | D4 | 2022.10 | A conversational dataset that supports symptom summary and depression detection | (*EMNLP'22*) D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat [[📝 Paper](https://aclanthology.org/2022.emnlp-main.156/)] [[💻 Code](https://x-lance.github.io/D4/)] |
-| AugESC | 2023.5 | A large-scale augmented dataset of multi-turn emotional support dialogues |
-| ExTES | 2023.8 | A multi-scenario, multi-policy, large-scale dataset |
+| AugESC | 2023.5 | A large-scale augmented dataset of multi-turn emotional support dialogues | (*Findings'23*) AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation [[📝 Paper](https://aclanthology.org/2023.findings-acl.99/)] [[💻 Code](https://github.com/thu-coai/AugESC)] |
+| ExTES | 2023.8 | A multi-scenario, multi-policy, large-scale dataset | (*Arxiv'23*) Building Emotional Support Chatbots in the Era of LLMs [[📝 Paper](https://arxiv.org/abs/2308.11584)] [[💻 Code](https://github.com/pandazzh2020/ExtESC)] |
 | Psych8k | 2023.9 | A dataset distilled into instruction-response pairs from real consultative conversations |
 | SoulChatCorpus | 2023.12 | A large Chinese multi-round empathic psychological counseling dialogue dataset |
 | CPsyCounD | 2024.6 | A report-based Chinese psychological counseling dataset |
