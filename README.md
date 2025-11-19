@@ -45,6 +45,8 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*Arxiv'25*) Speech as a Multimodal Digital Phenotype for Multi-Task LLM-based Mental Health Prediction [[📝 Paper]( https://arxiv.org/abs/2505.23822)]
 -  (*WWW'24*) MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models [[📝 Paper]( https://arxiv.org/abs/2309.13567)]
 -  (*CSCWD'24*) PsyChat: A Client-Centric Dialogue System for Mental Health Support [[📝 Paper](https://arxiv.org/abs/2312.04262)]
+-  (*Arxiv'24*) We Care: Multimodal Depression Detection and Knowledge Infused Mental Health Therapeutic Response Generation [[📝 Paper](https://arxiv.org/abs/2406.10561)]
+-  (*Arxiv'24*) Exploring Large Language Models for Detecting Mental Disorders [[📝 Paper](https://arxiv.org/abs/2410.07129)]
 -  
 ### 2.2 Inference-Time Strategies for Eliciting Clinical Reasoning
 ### 3.3 Beyond Text: Integrating Multimodal Cues
