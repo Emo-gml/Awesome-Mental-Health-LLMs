@@ -57,6 +57,15 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*Arxiv'25*) WundtGPT: Shaping Large Language Models To Be An Empathetic, Proactive Psychologist [[📝 Paper](https://arxiv.org/abs/2406.15474)] [[💻 Code](https://huggingface.co/CCCCCCCCY/WundtLLaMA)]
 -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
 ### 2.2 Inference-Time Strategies for Eliciting Clinical Reasoning
+-  (*Arxiv'25*) Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales [[📝 Paper](https://arxiv.org/abs/2508.10848)]
+-  -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
+-  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
+-  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
+-  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
+-  -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
+   -  -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
+      -  -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
+         -  -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
 ### 3.3 Beyond Text: Integrating Multimodal Cues
 
 
