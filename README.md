@@ -107,9 +107,9 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 ## 3. Dataset 
 ### 3.1 Mental Health Dialogue Data Construction and Synthesis
 | Dataset | Year | Source | Description |
-|--------|------|---------|-------------|
+|------|------|---------|-------------|
 | EmpatheticDialogues | 2018.11 | (*ACL'19*) Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [[📝 Paper](https://aclanthology.org/P19-1534/)] [[💻 Code](https://github.com/facebookresearch/EmpatheticDialogues)] | A dialogue dataset for empathy and emotional conversations |
-| PsyQA | 2021.6 || A high-quality manually annotated Chinese mental health QA dataset |
+| PsyQA | 2021.6 | (*Findings'21*) PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support [[📝 Paper](https://aclanthology.org/2021.findings-acl.130/)] [[💻 Code](https://github.com/thu-coai/PsyQA)] | A high-quality manually annotated Chinese mental health QA dataset |
 | ESConv | 2021.8 || A high-quality, multi-turn, strategy-annotated dataset of emotionally supported conversations |
 | D4 | 2022.10 || A conversational dataset that supports symptom summary and depression detection |
 | AugESC | 2023.5 || A large-scale augmented dataset of multi-turn emotional support dialogues |
