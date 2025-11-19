@@ -36,6 +36,11 @@ to support the Awesome-Mental-Health-LLMs project ✨
 - (*EMNLP'24*) SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support [[📝 Paper](https://arxiv.org/abs/2305.00450)] [[💻 Code](https://github.com/qiuhuachuan/smile)]
 - (*COLING'25*) SweetieChat: A Strategy-Enhanced Role-playing Framework for Diverse Scenarios Handling Emotional Support Agent [[📝 Paper](https://arxiv.org/abs/2412.08389)]
 - (*Arxiv'24*) MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media [[📝 Paper](https://arxiv.org/abs/2410.10323)] [[💻 Code](https://github.com/zwzzzQAQ/MentalGLM)]
+- (*Arxiv'24*) Emotional Support with LLM-based Empathetic Dialogue Generation [[📝 Paper](https://arxiv.org/abs/2507.12820)]
+- (*Arxiv'25*) FedMentalCare: Towards Privacy-Preserving Fine-Tuned LLMs to Analyze Mental Health Status Using Federated Learning Framework [[📝 Paper](https://arxiv.org/abs/2503.05786)]
+-  (*Arxiv'25*) DepressLLM: Interpretable domain-adapted language model for depression detection from real-world narratives [[📝 Paper](https://arxiv.org/abs/2508.08591)]
+-  (*Arxiv'25*) PsyLite Technical Report [[📝 Paper](https://arxiv.org/abs/2506.21536)] [[💻 Code](https://github.com/Jundifang/PsyLite)]
+-  (*Arxiv'25*) Enhancing Large Language Models for Detecting Mental Manipulation via Annotation-Free Data Augmentation and Anti-Curriculum Distillation [[📝 Paper](https://arxiv.org/abs/2505.15255)]
 ### 2.2 Inference-Time Strategies for Eliciting Clinical Reasoning
 ### 3.3 Beyond Text: Integrating Multimodal Cues
 
