@@ -22,7 +22,18 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 </div>
 
-## 1. Large Language Models 
+## 1. Large Language Models for mental health 
+### 1.1 Core Methodologies for Model Adaptation
+- (*Arxiv'25*) Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling [[📝 Paper](https://arxiv.org/abs/2505.15715)] 
+- (*Arxiv'25*) Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations [[📝 Paper](https://arxiv.org/abs/2506.06626)] 
+- (*AAAI'24*) MemoryBank: Enhancing Large Language Models with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2305.10250)] [[💻 Code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
+- (*ACL'25*) AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation [[📝 Paper](https://aclanthology.org/2025.findings-acl.1192/)] [[💻 Code](https://github.com/sci-m-wang/AnnaAgent)]
+- (*Arxiv'24*) Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory [[📝 Paper](https://arxiv.org/abs/2409.15084)]
+- (*Arxiv'24*) Advancing Conversational Psychotherapy: Integrating Privacy, Dual-Memory, and Domain Expertise with Large Language Models [[📝 Paper](https://arxiv.org/abs/2412.02987)]
+- (*Arxiv'25*) CA+: Cognition Augmented Counselor Agent Framework for Long-term Dynamic Client Engagement [[📝 Paper](https://arxiv.org/abs/2503.21365)]
+- (*ACL'25*) iPET: An Interactive Emotional Companion Dialogue System with LLM-Powered Virtual Pet World Simulation [[📝 Paper](https://aclanthology.org/2025.acl-demo.40/)]
+### 2.2 Inference-Time Strategies for Eliciting Clinical Reasoning
+### 3.3 Beyond Text: Integrating Multimodal Cues
 
 
 ## 2. LLM-Based Agents
