@@ -125,7 +125,7 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | ExTES | 2023.8 | A multi-scenario, multi-policy, large-scale dataset | (*Arxiv'23*) Building Emotional Support Chatbots in the Era of LLMs [[📝 Paper](https://arxiv.org/abs/2308.11584)] [[💻 Code](https://github.com/pandazzh2020/ExtESC)] |
 | Psych8k | 2023.9 | A dataset distilled into instruction-response pairs from real consultative conversations | (*PGAI CIKM'23*) ChatCounselor: A Large Language Models for Mental Health Support [[📝 Paper](https://arxiv.org/abs/2309.15461)] [[💻 Code](https://github.com/EmoCareAI/ChatPsychiatrist)] |
 | SoulChatCorpus | 2023.12 | A large Chinese multi-round empathic psychological counseling dialogue dataset | (*Findings'23*) SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations [[📝 Paper](https://aclanthology.org/2023.findings-emnlp.83/)] [[💻 Code](https://github.com/scutcyr/SoulChat?tab=readme-ov-file)] |
-| CPsyCounD | 2024.6 | A report-based Chinese psychological counseling dataset |
+| CPsyCounD | 2024.6 | A report-based Chinese psychological counseling dataset | (*Findings'24*) CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling [[📝 Paper](https://aclanthology.org/2024.findings-acl.830/)] [[💻 Code](https://github.com/CAS-SIAT-XinHai/CPsyCoun)] |
 | ESD-CoT | 2024.6 | A dataset of interpretable emotional support dialogues with chain-of-thought reasoning |
 | PsyChatbot | 2024.7 | A large-scale cleaned Chinese psychological counseling QA dataset |
 | SimPsyDial | 2024.8 | A dataset for simulating counselor-client dialogues using LLMs, focusing on mental health support |
