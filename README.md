@@ -105,6 +105,9 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 
 
 ## 3. Dataset 
-
+### 3.1 Mental Health Dialogue Data Construction and Synthesis
+### 3.2 Detection Data Resources
+### 3.3 Auxiliary Annotation Data Resources
+### 3.4 Multimodality
 
 ## 4. Benchmark
