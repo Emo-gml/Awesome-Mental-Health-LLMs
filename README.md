@@ -46,8 +46,16 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*WWW'24*) MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models [[📝 Paper]( https://arxiv.org/abs/2309.13567)]
 -  (*CSCWD'24*) PsyChat: A Client-Centric Dialogue System for Mental Health Support [[📝 Paper](https://arxiv.org/abs/2312.04262)]
 -  (*Arxiv'24*) We Care: Multimodal Depression Detection and Knowledge Infused Mental Health Therapeutic Response Generation [[📝 Paper](https://arxiv.org/abs/2406.10561)]
--  (*Arxiv'24*) Exploring Large Language Models for Detecting Mental Disorders [[📝 Paper](https://arxiv.org/abs/2410.07129)]
--  
+-  (*Arxiv'25*) From Reddit to Generative AI: Evaluating Large Language Models for Anxiety Support Fine-tuned on Social Media Data [[📝 Paper](https://arxiv.org/abs/2505.18464)]
+-  (*Arxiv'25*)  RLVER: Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents [[📝 Paper](https://arxiv.org/abs/2507.03112)]
+-  (*Arxiv'24*) ETowards Open-Ended Emotional Support Conversations in LLMs via Reinforcement Learning with Future-Oriented Rewards [[📝 Paper](https://arxiv.org/abs/2508.12935)]
+-  (*Arxiv'24*) COMPEER: Controllable Empathetic Reinforcement Reasoning for Emotional Support Conversation [[📝 Paper](https://www.arxiv.org/abs/2508.09521)]
+-  (*AAAI'25*) MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration [[📝 Paper](https://arxiv.org/abs/2410.07129)] [[💻 Code](https://github.com/JianChengXingYun/Mctsr-Zero)]
+-  (*Arxiv'25*) From Stimuli to Minds: Enhancing Psychological Reasoning in LLMs via Bilateral Reinforcement Learning
+ [[📝 Paper](https://arxiv.org/abs/2508.02458)]
+-  (*Arxiv'25*) Preference Learning Unlocks LLMs' Psycho-Counseling Skills [[📝 Paper](https://arxiv.org/abs/2502.19731)] [[💻 Code](https://huggingface.co/Psychotherapy-LLM)]
+-  (*Arxiv'25*) WundtGPT: Shaping Large Language Models To Be An Empathetic, Proactive Psychologist [[📝 Paper](https://arxiv.org/abs/2406.15474)] [[💻 Code](https://huggingface.co/CCCCCCCCY/WundtLLaMA)]
+-  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
 ### 2.2 Inference-Time Strategies for Eliciting Clinical Reasoning
 ### 3.3 Beyond Text: Integrating Multimodal Cues
 
