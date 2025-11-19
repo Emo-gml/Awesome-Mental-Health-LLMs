@@ -25,9 +25,9 @@ to support the Awesome-Mental-Health-LLMs project ✨
 ## 1. Large Language Models for mental health 
 ### 1.1 Core Methodologies for Model Adaptation
 - (*Arxiv'25*) Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling  [[📝 Paper](https://arxiv.org/abs/2505.15715)] [[💻 Code](https://github.com/Emo-gml/PsyLLM)]
-- (*Arxiv'25*) Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations [[📝 Paper](https://arxiv.org/abs/2506.06626)] 
-- (*AAAI'24*) MemoryBank: Enhancing Large Language Models with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2305.10250)] [[💻 Code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
-- (*ACL'25*) AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation [[📝 Paper](https://aclanthology.org/2025.findings-acl.1192/)] [[💻 Code](https://github.com/sci-m-wang/AnnaAgent)]
+- (*Arxiv'25*) Why Pre-trained Models Fail: Feature Entanglement in Multi-modal Depression Detection [[📝 Paper](https://arxiv.org/abs/2503.06620)] 
+- (*Arxiv'25*) ProMind-LLM: Proactive Mental Health Care via Causal Reasoning with Sensor Data [[📝 Paper](https://arxiv.org/abs/2505.14038)]
+- (*Arxiv'25*) PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation [[📝 Paper](https://arxiv.org/abs/2407.05721)] [[💻 Code](https://github.com/MindIntLab-HFUT/PsycoLLM)]
 - (*Arxiv'24*) Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory [[📝 Paper](https://arxiv.org/abs/2409.15084)]
 - (*Arxiv'24*) Advancing Conversational Psychotherapy: Integrating Privacy, Dual-Memory, and Domain Expertise with Large Language Models [[📝 Paper](https://arxiv.org/abs/2412.02987)]
 - (*Arxiv'25*) CA+: Cognition Augmented Counselor Agent Framework for Long-term Dynamic Client Engagement [[📝 Paper](https://arxiv.org/abs/2503.21365)]
