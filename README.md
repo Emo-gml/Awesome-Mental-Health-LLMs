@@ -58,8 +58,8 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
 ### 2.2 Inference-Time Strategies for Eliciting Clinical Reasoning
 -  (*Arxiv'25*) Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales [[📝 Paper](https://arxiv.org/abs/2508.10848)]
--  -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
--  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
+-  (*Arxiv'25*) A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG [[📝 Paper](https://arxiv.org/abs/2503.24307)]
+-  (*Arxiv'24*) Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering [[📝 Paper](https://arxiv.org/abs/2402.05127)]
 -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
 -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
 -  -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
