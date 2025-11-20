@@ -277,7 +277,7 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 - (*NAACL'25*) Do Large Language Models Align with Core Mental Health Counseling Competencies? [[📝 Paper](https://arxiv.org/abs/2410.22446)] [[💻 Code](https://github.com/cuongnguyenx/CounselingBench)]
 - (*EMNLP*) ESC-Judge: A Framework for Comparing Emotional Support Conversational Agents [[📝 Paper](https://aclanthology.org/2025.emnlp-main.811/)] [[💻 Code](https://github.com/navidmdn/ESC-Judge)]
 - (*Findings*) Can Large Language Models Identify Implicit Suicidal Ideation? An Empirical Evaluation [[📝 Paper](https://aclanthology.org/2025.findings-emnlp.998/)]
-
+- (*Arxiv'25*) A Gold Standard Dataset and Evaluation Framework for Depression Detection and Explanation in Social Media using LLMs [[📝 Paper](https://arxiv.org/abs/2507.19899)]
 
 ## 🌱Acknowledgements
 
