@@ -274,4 +274,5 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 - (*Arxiv'24*) CHBench: A Chinese Dataset for Evaluating Health in Large Language Models [[📝 Paper](https://arxiv.org/abs/2409.15766)] [[💻 Code](https://github.com/TracyGuo2001/CHBench)]
 - (*Arxiv'25*) P-ReMIS: Pragmatic Reasoning in Mental Health and a Social Implication [[📝 Paper](https://arxiv.org/abs/2507.23247)]
 - (*NAACL'25*) CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy [[📝 Paper](https://arxiv.org/abs/2410.13218)] [[💻 Code](https://huggingface.co/datasets/Psychotherapy-LLM/CBT-Bench)]
+- (*NAACL'25*) Do Large Language Models Align with Core Mental Health Counseling Competencies? [[📝 Paper](https://arxiv.org/abs/2410.22446)] [[💻 Code](https://github.com/cuongnguyenx/CounselingBench)]
 
