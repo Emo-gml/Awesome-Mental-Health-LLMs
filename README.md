@@ -106,9 +106,11 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*Arxiv'25*) MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models [[📝 Paper](https://arxiv.org/abs/2507.05591/)]
 -  (*25*) IT HEARS, IT SEES TOO: MULTI-MODAL LLM FOR DEPRESSION DETECTION BY INTEGRATING VISUAL UNDERSTANDING INTO AUDIO LANGUAGE MODELS [[📝 Paper](https://openreview.net/pdf?id=KA9StC9l3T/)]
 -  (*MM'24*) PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis [[📝 Paper](https://arxiv.org/abs/2408.09481/)]
--  (*Arxiv'25*) Integrating Visual Modalities with Large Language Models for Mental Health Support [[📝 Paper](https://aclanthology.org/2025.coling-main.599/)]
--  (*EMNLP'25*) MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance [[📝 Paper](https://arxiv.org/abs/2502.04976/)]
--  (*NAACL'25*) Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning [[📝 Paper](https://arxiv.org/abs/2502.06873/))]
+-  (*TMM'24*)  Towards Multimodal Emotional Support Conversation Systems [[📝 Paper](https://github.com/chuyq/MESC/)]
+-  (*Coling'25*) Integrating Visual Modalities with Large Language Models for Mental Health Support [[📝 Paper](https://aclanthology.org/2025.coling-main.599/)]
+-  (*EMNLP'25*) MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance [[📝 Paper](https://arxiv.org/abs/2502.04976/)] [[💻 Code](
+https://github.com/nobel-postech/mirror)]
+-  (*NAACL'25*) Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning [[📝 Paper](https://arxiv.org/abs/2502.06873/))] [[💻 Code](https://github.com/nobel-postech/M2CoSC)]
 
 
 
