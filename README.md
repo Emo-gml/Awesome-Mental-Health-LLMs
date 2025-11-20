@@ -20,8 +20,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
   👀 <b>Watch Me!</b> &nbsp; ⭐ <b>Star Me!</b>
 </span>
 
-<div style="height:20px;"></div>
-
+<p>&nbsp;</p>
 
 <img src="image/Tree.jpg">
 <br>
