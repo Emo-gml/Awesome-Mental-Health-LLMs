@@ -40,7 +40,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 ## Data Synthesis: From Dialogue-level to Personalized-realism-level
 <p align="center">
-  <img src="image/Data.jpg", width="500">"
+  <img src="image/Data.jpg", width="1000">"
 </p>
 
 
