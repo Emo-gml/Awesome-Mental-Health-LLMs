@@ -68,13 +68,13 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*Arxiv'24*) Understanding the Therapeutic Relationship between Counselors and Clients in Online Text-based Counseling using LLMs [[📝 Paper](https://arxiv.org/abs/2402.11958)]
 -  (*Arxiv'25*) In-context learning capabilities of Large Language Models to detect suicide risk among adolescents from speech transcripts [[📝 Paper](https://arxiv.org/abs/2505.20491)]
 -  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
--  (*Arxiv'25*) Enhanced Large Language Models for Effective Screening of Depression and Anxiety [[📝 Paper](https://arxiv.org/abs/2501.08769)]
--  (*Arxiv'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
-      -  -  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
-         -  -  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
-            -  -  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
-               -  -  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
-                  -  -  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
+-  (*Arxiv'25*) Development and Evaluation of HopeBot: an LLM-based chatbot for structured and interactive PHQ-9 depression screening [[📝 Paper](https://arxiv.org/abs/2507.05984)]
+-  (*iwsds'25*) A Chatbot for Providing Suicide Prevention Information in Spanish [[📝 Paper](https://aclanthology.org/2025.iwsds-1.21/)]
+-  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
+-  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
+-  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
+-  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
+-  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
 ### 3.3 Beyond Text: Integrating Multimodal Cues
 
 
