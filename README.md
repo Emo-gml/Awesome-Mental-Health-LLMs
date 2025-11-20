@@ -16,9 +16,6 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 <br>
 
-<span style="font-size: 22px;">
-  👀 <b>Watch Me!</b> &nbsp; ⭐ <b>Star Me!</b>
-</span>
 
 <p>&nbsp;</p>
 <div style="font-family: 'Merriweather', Georgia, serif; font-size: 22px; color:#4A4A4A; margin-top: 18px;">
