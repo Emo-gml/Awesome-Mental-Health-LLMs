@@ -270,3 +270,4 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | PTSD-in-the-Wild | 2022.9 | A publicly available, annotated video dataset for PTSD recognition | (*Arxiv'22*) PTSD in the Wild: A Video Database for Studying Post-Traumatic Stress Disorder Recognition in Unconstrained Environments [[📝 Paper](https://arxiv.org/abs/2209.14085)] [[💻 Code](https://www.lissi.fr/PTSD-Dataset/)] |
 ## 4. Benchmark
 - (*NLPCC'23*) A Benchmark for Understanding Dialogue Safety in Mental Health Support [[📝 Paper](https://arxiv.org/pdf/2307.16457)] [[💻 Code](https://github.com/qiuhuachuan/DialogueSafety)]
+- (*Arxiv'25*) Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health Dialogues via LLM-as-Judge [[📝 Paper](https://arxiv.org/abs/2508.08236)] [[💻 Code](https://github.com/mental-health-llm-safety-eval/psycrisisbench)]
