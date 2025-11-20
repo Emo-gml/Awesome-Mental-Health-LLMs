@@ -162,19 +162,19 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 |--------|------|-------------|-------|
 | **Depression Detection** ||||
 | CLP | 2015.6 | A Twitter-based mental health dataset with labeled depression, PTSD, and controls | (*CLPsych'15*) CLPsych 2015 Shared Task: Depression and PTSD on Twitter [[📝 Paper](https://aclanthology.org/W15-1204/)] [[💻 Code](https://github.com/clpsych/shared_task)] |
-| Twt-60Users | 2017.8 | A Twitter-based English dataset for depression risk detection |
-| RSDD | 2017.9 | A Reddit self-reported depression diagnosis dataset |
-| DR | 2018.10 | A Reddit dataset containing balanced and labeled user posts about depression |
-| DepSeverity | 2022.4 | A Reddit dataset for ordinal depression severity classification |
-| SWDD | 2023.5 | A large-scale Weibo dataset for depression detection with time-series symptoms |
-| IMHI | 2024.5 | An English interpretable mental-health instruction dataset from social media |
-| ANGST | 2024.10 | A Reddit-based classification dataset of depression and anxiety comorbidities |
-| **Suicide Detection** |||
-| UMD | 2018.6 | An expert and crowd-annotated Reddit dataset for suicide risk assessment |
-| CSSRS-Suicide | 2019.5 | A suicide risk severity classification dataset based on Reddit, annotated by clinical doctors |
-| SDCNL | 2021.9 | A Reddit-based dataset for depression vs. suicide text classification with noisy labels |
-| SOS-HL-1K | 2023.9 | A Chinese social media suicide risk dataset based on Weibo |
-| SHINES | 2025.6 | An emoji-aware, English Reddit dataset for self-harm intent detection |
+| Twt-60Users | 2017.8 | A Twitter-based English dataset for depression risk detection | (*CLPsych'17*) Monitoring Tweets for Depression to Detect At-risk Users [[📝 Paper](https://aclanthology.org/W17-3104/)] |
+| RSDD | 2017.9 | A Reddit self-reported depression diagnosis dataset | (*EMNLP'17*) Depression and Self-Harm Risk Assessment in Online Forums [[📝 Paper](https://arxiv.org/abs/1709.01848)] [[💻 Code](https://georgetown-ir-lab.github.io/emnlp17-depression/)] |
+| DR | 2018.10 | A Reddit dataset containing balanced and labeled user posts about depression | (*EMNLP'18*) Identifying Depression on Reddit: The Effect of Training Data [[📝 Paper](https://aclanthology.org/W18-5903/)] [[💻 Code](https://github.com/Inusette/Identifying-depression)] |
+| DepSeverity | 2022.4 | A Reddit dataset for ordinal depression severity classification | (*WWW'22*) Early Identification of Depression Severity Levels on Reddit Using Ordinal Classification [[📝 Paper](https://dl.acm.org/doi/10.1145/3485447.3512128)] [[💻 Code](https://github.com/usmaann/Depression_Severity_Dataset)] |
+| SWDD | 2023.5 | A large-scale Weibo dataset for depression detection with time-series symptoms | (*Expert Systems with Applications'217*) Depression detection on online social network with multivariate time series feature of user depressive symptoms [[📝 Paper](https://www.sciencedirect.com/science/article/pii/S0957417423000398)] [[💻 Code](https://github.com/ethan-nicholas-tsai/SWDD)] |
+| IMHI | 2024.5 | An English interpretable mental-health instruction dataset from social media | (*WWW'24*) MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models [[📝 Paper](https://dl.acm.org/doi/10.1145/3589334.3648137)] [[💻 Code](https://github.com/SteveKGYang/MentalLLaMA)] |
+| ANGST | 2024.10 | A Reddit-based classification dataset of depression and anxiety comorbidities | (*EMNLP'24*) Still Not Quite There! Evaluating Large Language Models for Comorbid Mental Health Diagnosis [[📝 Paper](https://aclanthology.org/2024.emnlp-main.931/)] [[💻 Code](https://huggingface.co/datasets/ameyhengle/ANGST)] |
+| **Suicide Detection** ||||
+| UMD | 2018.6 | An expert and crowd-annotated Reddit dataset for suicide risk assessment | (*CLPsych'18*) Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings [[📝 Paper](https://aclanthology.org/W18-0603/)] [[💻 Code](https://psresnik.github.io/umd_reddit_suicidality_dataset.html)] |
+| CSSRS-Suicide | 2019.5 | A suicide risk severity classification dataset based on Reddit, annotated by clinical doctors | (*WWW'19*) Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention [[📝 Paper](https://dl.acm.org/doi/10.1145/3308558.3313698)] [[💻 Code](https://opendatalab.org.cn/OpenDataLab/Reddit_C-SSRS)] |
+| SDCNL | 2021.9 | A Reddit-based dataset for depression vs. suicide text classification with noisy labels | (*ICANN'21*) Deep Learning for Suicide and Depression Identification with Unsupervised Label Correction [[📝 Paper](https://dl.acm.org/doi/10.1145/3308558.3313698)] [[💻 Code](https://github.com/ayaanzhaque/SDCNL?tab=readme-ov-file)] |
+| SOS-HL-1K | 2023.9 | A Chinese social media suicide risk dataset based on Weibo | (*Arxiv'23*) Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media [[📝 Paper](https://arxiv.org/abs/2309.03564)] [[💻 Code](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)] |
+| SHINES | 2025.6 | An emoji-aware, English Reddit dataset for self-harm intent detection | (*ACL'25*) Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation [[📝 Paper](https://aclanthology.org/2025.acl-long.1330/)] [[💻 Code](https://www.iitp.ac.in/~ai-nlp-ml/resources.html#SHINES)] |
 | **Other Diseases Detection** |||
 | Dreaddit | 2019.11 | A Reddit-based dataset for stress detection of long, multi-domain posts |
 | SAD | 2021.5 | A stress-labeled SMS-style dataset with nine everyday stressor categories |
