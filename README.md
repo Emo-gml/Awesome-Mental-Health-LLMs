@@ -72,7 +72,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*CSCWD'24*) PsyChat: A Client-Centric Dialogue System for Mental Health Support [[📝 Paper](https://arxiv.org/abs/2312.04262)]
 -  (*Arxiv'24*) We Care: Multimodal Depression Detection and Knowledge Infused Mental Health Therapeutic Response Generation [[📝 Paper](https://arxiv.org/abs/2406.10561)]
 -  (*Arxiv'25*) From Reddit to Generative AI: Evaluating Large Language Models for Anxiety Support Fine-tuned on Social Media Data [[📝 Paper](https://arxiv.org/abs/2505.18464)]
--  (*Arxiv'25*)  RLVER: Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents [[📝 Paper](https://arxiv.org/abs/2507.03112)]
+-  (*Arxiv'25*) RLVER: Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents [[📝 Paper](https://arxiv.org/abs/2507.03112)]
 -  (*Arxiv'24*) ETowards Open-Ended Emotional Support Conversations in LLMs via Reinforcement Learning with Future-Oriented Rewards [[📝 Paper](https://arxiv.org/abs/2508.12935)]
 -  (*Arxiv'24*) COMPEER: Controllable Empathetic Reinforcement Reasoning for Emotional Support Conversation [[📝 Paper](https://www.arxiv.org/abs/2508.09521)]
 -  (*AAAI'25*) MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration [[📝 Paper](https://arxiv.org/abs/2410.07129)] [[💻 Code](https://github.com/JianChengXingYun/Mctsr-Zero)]
@@ -98,7 +98,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*Arxiv'24*) SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques [[📝 Paper (https://arxiv.org/abs/2410.16322/)]
 -  (*Arxiv'24*) Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice [[📝 Paper](https://aclanthology.org/2025.clpsych-1.23/)]
 -  (*Arxiv'24*) Retrieval-Enhanced Mental Health Assessment: Capturing Self-State Dynamics from Social Media Using In-Context Learning [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
--  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
+-  (*Arxiv'24*) STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2412.16674/)]
 -  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
 ### 3.3 Beyond Text: Integrating Multimodal Cues
 
