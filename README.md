@@ -224,6 +224,22 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | KoACD | 2025.5 | A large-scale Korean adolescent cognitive distortion dataset | (*EMNLP'25*) KoACD: The First Korean Adolescent Dataset for Cognitive Distortion Analysis via Role-Switching Multi-LLM Negotiation [[📝 Paper](https://arxiv.org/abs/2505.00367)] [[💻 Code](https://github.com/cocoboldongle/KoACD?tab=readme-ov-file)] |
 | BD-Risk | 2024.6 | A time-series social media dataset for early bipolar disorder detection (BD) with mood and risk annotations | (*NAACL'24*) Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood-Aware Multi-Task Learning [[📝 Paper](https://aclanthology.org/2024.naacl-long.278/)] [[💻 Code](https://github.com/DSAIL-SKKU/Detecting-BD-from-Misdiagnosed-MDD_NAACL_2024)] |
 ### 3.3 Auxiliary Annotation Data Resources
+| **Dataset** | **Year** | **Description** | **Source** | 
+|--------|------|-------------|-----------|
+| Anno-MI | 2022.4 | An expert-annotated counseling dialogue dataset for motivational interviewing | (*ICASSP'22*) Anno-MI: A Dataset of Expert-Annotated Counselling Dialogues [[📝 Paper](https://ieeexplore.ieee.org/document/9746035)] [[💻 Code](https://github.com/uccollab/annomi)] |
+| Xinling | 2023.7 | A Chinese dialogue dataset that supports the classification of therapist strategies and client responses | (*ACL'23*) Understanding Client Reactions in Online Mental Health Counseling [[📝 Paper](https://aclanthology.org/2023.acl-long.577/)] [[💻 Code](https://github.com/dll-wu/Client-Reactions)] |
+| PATTERNREFRAME | 2023.7 | A crowdsourced English dataset for generating and reframing unhelpful thoughts | (*ACL'23*) Training Models to Generate, Recognize, and Reframe Unhelpful Thoughts [[📝 Paper](https://aclanthology.org/2023.acl-long.763/)] [[💻 Code](https://github.com/facebookresearch/ParlAI/tree/main/projects/reframe_thoughts)] |
+| BiMISC | 2024.5 | A bilingual psychotherapy dataset with fine-grained multi-label MISC codes | (*LREC-COLING'24*) Eliciting Motivational Interviewing Skill Codes in Psychotherapy with LLMs: A Bilingual Dataset and Analytical Study [[📝 Paper](https://aclanthology.org/2024.lrec-main.498/)] |
+| MI-TAGS | 2024.5 | An expert-annotated counseling dialogue dataset for motivational interviewing | (*LREC-COLING'24*) Motivational Interviewing Transcripts Annotated with Global Scores [[📝 Paper](https://aclanthology.org/2024.lrec-main.1017/)] [[💻 Code](https://advanced-reality-lab.github.io/MI-TAGS/)] |
+| CPsyCounR | 2024.6 | A Chinese psychological counseling reports dataset for dialogue reconstruction and evaluation | (*ACL'24*) CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling [[📝 Paper](https://aclanthology.org/2024.findings-acl.830/)] [[💻 Code](https://github.com/CAS-SIAT-XinHai/CPsyCoun)] |
+| IC-AnnoMI | 2024.7 | An enhanced MI conversation dataset that supports MI conversation quality classification | (*NLPAICS'24*) Unlocking LLMs: Addressing Scarce Data and Bias Challenges in Mental Health and Therapeutic Counselling [[📝 Paper](https://aclanthology.org/2024.nlpaics-1.26/)] [[💻 Code](https://github.com/vsrana-ai/IC-AnnoMI)] |
+| EmpatheticExchanges | 2024.12 | A dataset of dyadic conversations with human-annotated behavioral empathy | (*IEEE'24*) EmpatheticExchanges: Toward Understanding the Cues for Empathy in Dyadic Conversations [[📝 Paper](https://ieeexplore.ieee.org/document/10807220?denied=)] [[💻 Code](https://github.com/Dregdael/EmpatheticeExchanges-dataset)] |
+| RedditESS | 2025.3 | A Reddit-based mental health support interaction dataset | (*Arxiv'25*) RedditESS: A Mental Health Social Support Interaction Dataset -- Understanding Effective Social Support to Refine AI-Driven Support Tools [[📝 Paper](https://arxiv.org/abs/2503.21888)] [[💻 Code](https://anonymous.4open.science/r/RedditESS-3577)] |
+| MIDAS | 2025.4 | A Spanish MI counseling conversation dataset that can be used to classify counselor behavior |
+| MHStigma-Interview | 2025.5 | A multi-turn chatbot interview dataset for mental health stigma classification |
+| MultiManip | 2025.7 | A multi-person, multi-turn conversation dataset for psychological manipulation detection |
+| SynthEHR-Eviction | 2025.7 | A synthetic-augmented, fine-grained eviction classification dataset from EHRs |
+| RealCBT | 2025.8 | A dataset of CBT counseling dialogues that can support emotional dynamic analysis |
 ### 3.4 Multimodality
 
 ## 4. Benchmark
