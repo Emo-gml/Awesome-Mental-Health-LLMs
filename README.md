@@ -269,3 +269,4 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | EmpathicSchool | 2022.8 | A multimodal dataset combining facial expressions and physiological signals under stress | (*Scientific Data'25*) A multimodal stress detection dataset with facial expressions and physiological signals [[📝 Paper](https://www.nature.com/articles/s41597-025-05812-0)] |
 | PTSD-in-the-Wild | 2022.9 | A publicly available, annotated video dataset for PTSD recognition | (*Arxiv'22*) PTSD in the Wild: A Video Database for Studying Post-Traumatic Stress Disorder Recognition in Unconstrained Environments [[📝 Paper](https://arxiv.org/abs/2209.14085)] [[💻 Code](https://www.lissi.fr/PTSD-Dataset/)] |
 ## 4. Benchmark
+- (*NLPCC'23*) A Benchmark for Understanding Dialogue Safety in Mental Health Support [[📝 Paper](https://arxiv.org/pdf/2307.16457)] [[💻 Code](https://github.com/qiuhuachuan/DialogueSafety)]
