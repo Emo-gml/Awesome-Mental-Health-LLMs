@@ -26,16 +26,18 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 </div>
 
-## LLM Applications in Mental Health Care
-
-<p align="center">
-  <img src="image/application.jpg", width="500">
-</p>
-
-## Core components of a mental health LLM agent
-<p align="center">
-  <img src="image/agent.jpg", width="500">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <h3>LLM Applications in Mental Health Care</h3>
+      <img src="image/application.jpg" width="350">
+    </td>
+    <td align="center">
+      <h3>Core components of a mental health LLM agent</h3>
+      <img src="image/agent.jpg" width="350">
+    </td>
+  </tr>
+</table>
 
 
 ## Data Synthesis: From Dialogue-level to Personalized-realism-level
