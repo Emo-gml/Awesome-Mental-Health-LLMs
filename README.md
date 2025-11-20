@@ -102,6 +102,15 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*Arxiv'25*) SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information [[📝 Paper](https://arxiv.org/abs/2502.10950/)]
 -  (*Arxiv'25*) Utilizing Large Language Models to Identify Evidence of Suicidality Risk through Analysis of Emotionally Charged Posts [[📝 Paper](https://aclanthology.org/2024.clpsych-1.26/)]
 ### 3.3 Beyond Text: Integrating Multimodal Cues
+-  (*NAACL'24*) Depression Detection in Clinical Interviews with LLM-Empowered Structural Element Graph [[📝 Paper](https://aclanthology.org/2024.naacl-long.452/)]
+-  (*Arxiv'25*) MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models [[📝 Paper](https://arxiv.org/abs/2507.05591/)]
+-  (*25*) IT HEARS, IT SEES TOO: MULTI-MODAL LLM FOR DEPRESSION DETECTION BY INTEGRATING VISUAL UNDERSTANDING INTO AUDIO LANGUAGE MODELS [[📝 Paper](https://openreview.net/pdf?id=KA9StC9l3T/)]
+-  (*MM'24*) PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis [[📝 Paper](https://arxiv.org/abs/2408.09481/)]
+-  (*Arxiv'24*) Integrating Visual Modalities with Large Language Models for Mental Health Support [[📝 Paper](https://aclanthology.org/2025.coling-main.599/)]
+-  (*Arxiv'24*) Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark [[📝 Paper](https://arxiv.org/abs/2502.04976/)]
+-  (*Arxiv'24*) STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2412.16674/)]
+-  (*Arxiv'24*) STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2412.16674/)]
+-  (*Arxiv'24*) STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2412.16674/)]
 
 
 ## 2. LLM-Based Agents
