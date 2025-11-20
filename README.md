@@ -20,6 +20,34 @@ to support the Awesome-Mental-Health-LLMs project ✨
   👀 <b>Watch Me!</b> &nbsp; ⭐ <b>Star Me!</b>
 </span>
 
+<img src="image/Tree.jpg">
+<br>
+<em>Figure: A visualization of the development trajectory of LLM-based mental health implementations from 2021 to 2025.</em>
+
+</div>
+
+## LLM Applications in Mental Health Care
+
+<p align="center">
+  <img src="image/application.jpg", width="500">
+</p>
+
+## Core components of a mental health LLM agent
+<p align="center">
+  <img src="image/agent.jpg", width="500">
+</p>
+
+## Core components of a mental health LLM agent
+<p align="center">
+  <img src="image/agent.jpg", width="500">
+</p>
+
+## Data Synthesis: From Dialogue-level to Personalized-realism-level
+<p align="center">
+  <img src="image/Data.jpg", width="500">", width="500">
+</p>
+
+
 </div>
 
 ## 1. Large Language Models for mental health 
