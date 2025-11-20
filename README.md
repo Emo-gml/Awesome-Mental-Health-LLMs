@@ -99,7 +99,8 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*Arxiv'24*) Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice [[📝 Paper](https://aclanthology.org/2025.clpsych-1.23/)]
 -  (*Arxiv'24*) Retrieval-Enhanced Mental Health Assessment: Capturing Self-State Dynamics from Social Media Using In-Context Learning [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
 -  (*Arxiv'24*) STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2412.16674/)]
--  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
+-  (*Arxiv'25*) SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information [[📝 Paper](https://arxiv.org/abs/2502.10950/)]
+-  (*Arxiv'25*) Utilizing Large Language Models to Identify Evidence of Suicidality Risk through Analysis of Emotionally Charged Posts [[📝 Paper](https://aclanthology.org/2024.clpsych-1.26/)]
 ### 3.3 Beyond Text: Integrating Multimodal Cues
 
 
