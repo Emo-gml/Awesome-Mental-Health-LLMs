@@ -212,17 +212,17 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | SOS-HL-1K | 2023.9 | A Chinese social media suicide risk dataset based on Weibo | (*Arxiv'23*) Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media [[📝 Paper](https://arxiv.org/abs/2309.03564)] [[💻 Code](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)] |
 | SHINES | 2025.6 | An emoji-aware, English Reddit dataset for self-harm intent detection | (*ACL'25*) Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation [[📝 Paper](https://aclanthology.org/2025.acl-long.1330/)] [[💻 Code](https://www.iitp.ac.in/~ai-nlp-ml/resources.html#SHINES)] |
 | **Other Diseases Detection** |||
-| Dreaddit | 2019.11 | A Reddit-based dataset for stress detection of long, multi-domain posts |
-| SAD | 2021.5 | A stress-labeled SMS-style dataset with nine everyday stressor categories |
-| CAMS | 2022.6 | An annotated Reddit posts for interpretable causal analysis of mental health |
-| SWMH | 2022.7 | A Reddit-based dataset for classifying multiple types of mental disorders |
-| T-SID | 2022.7 | A Reddit-based dataset for classifying multiple types of mental disorders |
-| IRF | 2023.7 | An annotated dataset for explainable interpersonal risk factors of mental disturbance in social media posts |
-| C2D2 | 2023.12 | A human-written, expert-annotated dataset of Chinese cognitively distorted text |
-| CDPR | 2024.5 | A human-written actively reconstructed cognitive distortion detection dataset |
-| MentalHelp | 2024.5 | A large-scale semi-supervised Reddit dataset for mental health detection |
-| KoACD | 2025.5 | A large-scale Korean adolescent cognitive distortion dataset |
-| BD-Risk | 2024.6 | A time-series social media dataset for early bipolar disorder detection (BD) with mood and risk annotations |
+| Dreaddit | 2019.11 | A Reddit-based dataset for stress detection of long, multi-domain posts | (*Louhi'19*) Dreaddit: A Reddit Dataset for Stress Analysis in Social Media [[📝 Paper](https://aclanthology.org/D19-6213/)] [[💻 Code](https://www.cs.columbia.edu/~eturcan/)] |
+| SAD | 2021.5 | A stress-labeled SMS-style dataset with nine everyday stressor categories | (*CHI EA'21*) SAD: A Stress Annotated Dataset for Recognizing Everyday Stressors in SMS-like Conversational Systems [[📝 Paper](https://dl.acm.org/doi/10.1145/3411763.3451799)] [[💻 Code](https://github.com/PervasiveWellbeingTech/Stress-Annotated-Dataset-SAD)] |
+| CAMS | 2022.6 | An annotated Reddit posts for interpretable causal analysis of mental health | (*LREC'22*) CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts [[📝 Paper](https://aclanthology.org/2022.lrec-1.686/)] [[💻 Code](https://anonymous.4open.science/r/CAMS1/)] |
+| SWMH | 2022.7 | A Reddit-based dataset for classifying multiple types of mental disorders | (*Neural Computing and Applications'34*) Suicidal ideation and mental disorder detection with attentive relation networks [[📝 Paper](https://dl.acm.org/doi/abs/10.1007/s00521-021-06208-y)] |
+| T-SID | 2022.7 | A Twitter-based dataset for suicidal ideation detection across mental health categories |  (*Neural Computing and Applications'34*) Suicidal ideation and mental disorder detection with attentive relation networks [[📝 Paper](https://dl.acm.org/doi/abs/10.1007/s00521-021-06208-y)] |
+| IRF | 2023.7 | An annotated dataset for explainable interpersonal risk factors of mental disturbance in social media posts | (*Findings'23*) An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental Disturbance in Social Media Posts [[📝 Paper](https://aclanthology.org/2023.findings-acl.757/)] [[💻 Code](https://github.com/drmuskangarg/Irf)] |
+| C2D2 | 2023.12 | A human-written, expert-annotated dataset of Chinese cognitively distorted text | (*Findings'23*) C2D2 Dataset: A Resource for the Cognitive Distortion Analysis and Its Impact on Mental Health [[📝 Paper](https://aclanthology.org/2023.findings-emnlp.680/)] [[💻 Code](https://github.com/bcwangavailable/C2D2-Cognitive-Distortion)] |
+| CDPR | 2024.5 | A human-written actively reconstructed cognitive distortion detection dataset | (*Findings'24*) Detection and Positive Reconstruction of Cognitive Distortion Sentences: Mandarin Dataset and Evaluation [[📝 Paper](https://aclanthology.org/2024.findings-acl.399/)] [[💻 Code](https://github.com/405200144/Dataset-of-Cognitive-Distortion-detection-and-Positive-Reconstruction?tab=readme-ov-file)] |
+| MentalHelp | 2024.5 | A large-scale semi-supervised Reddit dataset for mental health detection | (*LREC-COLING'24*) MentalHelp: A Multi-Task Dataset for Mental Health in Social Media [[📝 Paper](https://aclanthology.org/2024.lrec-main.977/)] [[💻 Code](https://github.com/mraihan-gmu/MentalHelp)] |
+| KoACD | 2025.5 | A large-scale Korean adolescent cognitive distortion dataset | (*EMNLP'25*) KoACD: The First Korean Adolescent Dataset for Cognitive Distortion Analysis via Role-Switching Multi-LLM Negotiation [[📝 Paper](https://arxiv.org/abs/2505.00367)] [[💻 Code](https://github.com/cocoboldongle/KoACD?tab=readme-ov-file)] |
+| BD-Risk | 2024.6 | A time-series social media dataset for early bipolar disorder detection (BD) with mood and risk annotations | (*NAACL'24*) Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood-Aware Multi-Task Learning [[📝 Paper](https://aclanthology.org/2024.naacl-long.278/)] [[💻 Code](https://github.com/DSAIL-SKKU/Detecting-BD-from-Misdiagnosed-MDD_NAACL_2024)] |
 ### 3.3 Auxiliary Annotation Data Resources
 ### 3.4 Multimodality
 
