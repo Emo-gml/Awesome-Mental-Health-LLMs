@@ -20,13 +20,14 @@ to support the Awesome-Mental-Health-LLMs project ✨
   👀 <b>Watch Me!</b> &nbsp; ⭐ <b>Star Me!</b>
 </span>
 
+
 <img src="image/Tree.jpg">
 <br>
 <em>Figure: A visualization of the development trajectory of LLM-based mental health implementations from 2021 to 2025.</em>
 
 </div>
 
-<table style="border-collapse: collapse;">
+<table>
   <tr>
     <td align="center" style="padding-right: 40px;">
       <h3 style="margin: 0;">LLM Applications in Mental Health Care</h3>
@@ -38,6 +39,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
     </td>
   </tr>
 </table>
+
 
 
 
