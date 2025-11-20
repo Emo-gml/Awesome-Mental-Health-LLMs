@@ -278,6 +278,7 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 - (*EMNLP*) ESC-Judge: A Framework for Comparing Emotional Support Conversational Agents [[📝 Paper](https://aclanthology.org/2025.emnlp-main.811/)] [[💻 Code](https://github.com/navidmdn/ESC-Judge)]
 - (*Findings*) Can Large Language Models Identify Implicit Suicidal Ideation? An Empirical Evaluation [[📝 Paper](https://aclanthology.org/2025.findings-emnlp.998/)]
 - (*Arxiv'25*) A Gold Standard Dataset and Evaluation Framework for Depression Detection and Explanation in Social Media using LLMs [[📝 Paper](https://arxiv.org/abs/2507.19899)]
+- (*NAACL'24*) Diverse Perspectives, Divergent Models: Cross-Cultural Evaluation of Depression Detection on Twitter [[📝 Paper](https://aclanthology.org/2024.naacl-short.58/)] [[💻 Code](https://grouplens.org/datasets/twitterdepression-dataset-2024/)]
 
 ## 🌱Acknowledgements
 
