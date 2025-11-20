@@ -281,6 +281,7 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 - (*NAACL'24*) Diverse Perspectives, Divergent Models: Cross-Cultural Evaluation of Depression Detection on Twitter [[📝 Paper](https://aclanthology.org/2024.naacl-short.58/)] [[💻 Code](https://grouplens.org/datasets/twitterdepression-dataset-2024/)]
 - (*Findings'25*) Can You Share Your Story? Modeling Clients’ Metacognition and Openness for LLM Therapist Evaluation [[📝 Paper](https://aclanthology.org/2025.findings-acl.1332/)]
 - (*Arxiv'25*) Trust Modeling in Counseling Conversations: A Benchmark Study [[📝 Paper](https://arxiv.org/abs/2501.03064)]
+- (*CLPsych'24*) Therapist Self-Disclosure as a Natural Language Processing Task [[📝 Paper](https://aclanthology.org/2024.clpsych-1.5/)] [[💻 Code](https://github.com/NatalieShapira/TherapistSelfDisclosure)]
 
 ## 🌱Acknowledgements
 
