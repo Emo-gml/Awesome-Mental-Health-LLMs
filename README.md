@@ -246,7 +246,7 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | **Interaction-Oriented Supportive Dialogue** || ||
 | MEDIC | 2023.10 | A multimodal Chinese counseling empathy dataset with text, audio, visuals | (*MM'23*) MEDIC: A Multimodal Empathy Dataset in Counseling [[📝 Paper](https://dl.acm.org/doi/10.1145/3581783.3612346)] [[💻 Code](https://ustc-ac.github.io/datasets/medic/)] |
 | MESC | 2024.10 | A multimodal English dataset for therapeutic emotional support conversations | (*IEEE transactions on multimedia'24*) Towards Multimodal Emotional Support Conversation Systems [[📝 Paper](https://arxiv.org/abs/2408.03650)] [[💻 Code](https://github.com/chuyq/MESC)] |
-| Mirror | 2025.5 | A multimodal CBT dataset with resistance-aware dialogues and consistent emotions | (*EMNLP'25*) MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance [[📝 Paper](https://arxiv.org/abs/2504.13211)] |
+| Mirror | 2025.5 | A multimodal CBT dataset with resistance-aware dialogues and consistent emotions | (*EMNLP'25*) MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance [[📝 Paper](https://arxiv.org/abs/2504.13211)] [[💻 Code](https://github.com/nobel-postech/mirror)] |
 | **Behavior-Based Mental Health Detection** || |
 | AVEC 2013 | 2013.10 | A multimodal audio-visual dataset for continuous emotion and depression recognition |
 | SWELL-KW | 2014.11 | A multimodal office-work stress dataset with sensors and questionnaires |
