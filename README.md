@@ -276,3 +276,8 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 - (*NAACL'25*) CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy [[📝 Paper](https://arxiv.org/abs/2410.13218)] [[💻 Code](https://huggingface.co/datasets/Psychotherapy-LLM/CBT-Bench)]
 - (*NAACL'25*) Do Large Language Models Align with Core Mental Health Counseling Competencies? [[📝 Paper](https://arxiv.org/abs/2410.22446)] [[💻 Code](https://github.com/cuongnguyenx/CounselingBench)]
 
+## Acknowledgements
+
+We would like to acknowledge the researchers, clinicians, and practitioners devoted to advancing mental health and mental-health-oriented AI. In a time when mental health challenges continue to rise worldwide, their steady efforts have driven meaningful progress and made new possibilities achievable.
+
+
