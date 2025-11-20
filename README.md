@@ -248,24 +248,24 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | MESC | 2024.10 | A multimodal English dataset for therapeutic emotional support conversations | (*IEEE transactions on multimedia'24*) Towards Multimodal Emotional Support Conversation Systems [[📝 Paper](https://arxiv.org/abs/2408.03650)] [[💻 Code](https://github.com/chuyq/MESC)] |
 | Mirror | 2025.5 | A multimodal CBT dataset with resistance-aware dialogues and consistent emotions | (*EMNLP'25*) MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance [[📝 Paper](https://arxiv.org/abs/2504.13211)] [[💻 Code](https://github.com/nobel-postech/mirror)] |
 | **Behavior-Based Mental Health Detection** || |
-| AVEC 2013 | 2013.10 | A multimodal audio-visual dataset for continuous emotion and depression recognition |
-| SWELL-KW | 2014.11 | A multimodal office-work stress dataset with sensors and questionnaires |
-| Turkish BDC | 2018.5 | A Turkish multimodal corpus for bipolar disorder diagnosis and monitoring |
-| AVEC 2018 | 2018.10 | A multilingual, multimodal dataset for mental health and emotion recognition |
-| WESAD | 2018.10 | A multimodal wearable dataset for stress and emotion detection |
-| Multimodal stress | 2018.11 | A multimodal stress dataset with speech, hormones, and physiology |
-| TMDD | 2019.7 | A multimodal Twitter dataset for user-level depression detection |
-| E-DAIC | 2019.10 | A multilingual, multimodal dataset for mood, depression, cross-cultural emotion |
-| MuSE | 2020.5 | A multimodal English dataset for stress-aware emotion recognition |
-| WU3D | 2020.8 | A large-scale, multimodal, user-level depression detection dataset from Weibo |
-| Self-Adaptors | 2020.11 | An audio and visual interview dataset with distress labels and fidgeting behaviors |
-| UBFC-Phys | 2021.2 | A multimodal dataset for stress analysis with video, physiology, self-reports |
-| MuSe 2021 | 2021.10 | A multimodal emotion dataset with audio, video, text, and physiology |
-| MODMA | 2022.4 | A multimodal Chinese dataset for EEG and speech-based depression analysis |
-| D-vlog | 2022.6 | A multimodal YouTube vlog dataset for real-world depression detection |
-| CMDC | 2022.6 | A Chinese multimodal depression corpus with clinical, audio-video-text interviews |
-| Nurse Stress | 2022.6 | A real-world multimodal wearable dataset for nurse stress detection |
-| MuSe 2022 | 2022.6 | A multilingual, multimodal dataset for humor, emotion, and stress analysis |
-| EmpathicSchool | 2022.8 | A multimodal dataset combining facial expressions and physiological signals under stress |
-| PTSD-in-the-Wild | 2022.9 | A publicly available, annotated video dataset for PTSD recognition |
+| AVEC 2013 | 2013.10 | A multimodal audio-visual dataset for continuous emotion and depression recognition | (*AVEC'13*) AVEC 2013: the continuous audio/visual emotion and depression recognition challenge [[📝 Paper](https://dl.acm.org/doi/10.1145/2512530.2512533)] |
+| SWELL-KW | 2014.11 | A multimodal office-work stress dataset with sensors and questionnaires | (*ICMI'14*) The SWELL Knowledge Work Dataset for Stress and User Modeling Research [[📝 Paper](https://dl.acm.org/doi/10.1145/2663204.2663257)] [[💻 Code](https://persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-kwrv-3e)] |
+| Turkish BDC | 2018.5 | A Turkish multimodal corpus for bipolar disorder diagnosis and monitoring | (*ACII Asia'18*) The Turkish Audio-Visual Bipolar Disorder Corpus [[📝 Paper](https://ieeexplore.ieee.org/abstract/document/8470362)] |
+| AVEC 2018 | 2018.10 | A multilingual, multimodal dataset for mental health and emotion recognition | (*AVEC'18*) AVEC 2018 Workshop and Challenge: Bipolar Disorder and Cross-Cultural Affect Recognition [[📝 Paper](https://dl.acm.org/doi/10.1145/3266302.3266316)] |
+| WESAD | 2018.10 | A multimodal wearable dataset for stress and emotion detection | (*ICMI'18*) Introducing WESAD, a Multimodal Dataset for Wearable Stress and Affect Detection [[📝 Paper](https://dl.acm.org/doi/10.1145/3242969.3242985)] [[💻 Code](https://ubi29.informatik.uni-siegen.de/usi/data_wesad.html)] |
+| Multimodal stress | 2018.11 | A multimodal stress dataset with speech, hormones, and physiology | (*Hormones and Behavior'106*) Multimodal stress detection: Testing for covariation in vocal, hormonal and physiological responses to Trier Social Stress Test [[📝 Paper](https://www.sciencedirect.com/science/article/pii/S0018506X18301272)] |
+| TMDD | 2019.7 | A multimodal Twitter dataset for user-level depression detection | (*AAAI'19*) Cooperative Multimodal Approach to Depression Detection in Twitter [[📝 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3775)] |
+| E-DAIC | 2019.10 | A multilingual, multimodal dataset for mood, depression, cross-cultural emotion | (*AVEC'19*) AVEC 2019 Workshop and Challenge: State-of-Mind, Detecting Depression with AI, and Cross-Cultural Affect Recognition [[📝 Paper](https://dl.acm.org/doi/10.1145/3347320.3357688)] |
+| MuSE | 2020.5 | A multimodal English dataset for stress-aware emotion recognition | (*LREC'20*) MuSE: a Multimodal Dataset of Stressed Emotion [[📝 Paper](https://aclanthology.org/2020.lrec-1.187/)] [[💻 Code](https://lit.eecs.umich.edu/downloads.html)] |
+| WU3D | 2020.8 | A large-scale, multimodal, user-level depression detection dataset from Weibo | (*Arxiv'20*) A Multitask Deep Learning Approach for User Depression Detection on Sina Weibo [[📝 Paper](https://arxiv.org/abs/2008.11708)] [[💻 Code](https://github.com/aidenwang9867/Weibo-User-Depression-Detection-Dataset)] |
+| Self-Adaptors | 2020.11 | An audio and visual interview dataset with distress labels and fidgeting behaviors | (*FG'20*) Automatic Detection of Self-Adaptors for Psychological Distress [[📝 Paper](https://ieeexplore.ieee.org/document/9320202)] |
+| UBFC-Phys | 2021.2 | A multimodal dataset for stress analysis with video, physiology, self-reports | (*TAFFC'23*) UBFC-Phys: A Multimodal Database For Psychophysiological Studies of Social Stress [[📝 Paper](https://ieeexplore.ieee.org/document/9346017)] [[💻 Code](https://sites.google.com/view/ybenezeth/ubfc-phys)] |
+| MuSe 2021 | 2021.10 | A multimodal emotion dataset with audio, video, text, and physiology | (*MuSe'21*) The MuSe 2021 Multimodal Sentiment Analysis Challenge: Sentiment, Emotion, Physiological-Emotion, and Stress [[📝 Paper](https://dl.acm.org/doi/abs/10.1145/3475957.3484450)] |
+| MODMA | 2022.4 | A multimodal Chinese dataset for EEG and speech-based depression analysis | (*Scientific Data'22*) A multi-modal open dataset for mental-disorder analysis [[📝 Paper](https://www.nature.com/articles/s41597-022-01211-x#citeas)] [[💻 Code](https://modma.lzu.edu.cn/data/index/)] |
+| D-vlog | 2022.6 | A multimodal YouTube vlog dataset for real-world depression detection | (*AAAI'22*) D-vlog: Multimodal Vlog Dataset for Depression Detection [[📝 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21483)] [[💻 Code](https://sites.google.com/view/jeewoo-yoon/dataset)] |
+| CMDC | 2022.6 | A Chinese multimodal depression corpus with clinical, audio-video-text interviews | (*TAFFC'23*) Semi-Structural Interview-Based Chinese Multimodal Depression Corpus Towards Automatic Preliminary Screening of Depressive Disorders [[📝 Paper](https://ieeexplore.ieee.org/document/9793717)] [[💻 Code](https://ieee-dataport.org/open-access/chinese-multimodal-depression-corpus)] |
+| Nurse Stress | 2022.6 | A real-world multimodal wearable dataset for nurse stress detection | (*Scientific Data'22*) A multimodal sensor dataset for continuous stress detection of nurses in a hospital [[📝 Paper](https://www.nature.com/articles/s41597-022-01361-y)] [[💻 Code](https://datadryad.org/dataset/doi:10.5061/dryad.5hqbzkh6f)] |
+| MuSe 2022 | 2022.6 | A multilingual, multimodal dataset for humor, emotion, and stress analysis | (*MuSe'22*) The MuSe 2022 Multimodal Sentiment Analysis Challenge: Humor, Emotional Reactions, and Stress [[📝 Paper](https://dl.acm.org/doi/10.1145/3551876.3554817)] |
+| EmpathicSchool | 2022.8 | A multimodal dataset combining facial expressions and physiological signals under stress | (*Scientific Data'25*) A multimodal stress detection dataset with facial expressions and physiological signals [[📝 Paper](https://www.nature.com/articles/s41597-025-05812-0)] |
+| PTSD-in-the-Wild | 2022.9 | A publicly available, annotated video dataset for PTSD recognition | (*Arxiv'22*) PTSD in the Wild: A Video Database for Studying Post-Traumatic Stress Disorder Recognition in Unconstrained Environments [[📝 Paper](https://arxiv.org/abs/2209.14085)] [[💻 Code](https://www.lissi.fr/PTSD-Dataset/)] |
 ## 4. Benchmark
