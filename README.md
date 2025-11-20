@@ -16,8 +16,6 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 <br>
 
-
-<p>&nbsp;</p>
 <div style="font-family: 'Merriweather', Georgia, serif; font-size: 22px; color:#4A4A4A; margin-top: 18px;">
   <i>“The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.”</i>
   <br>
