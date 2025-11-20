@@ -241,5 +241,31 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 | SynthEHR-Eviction | 2025.7 | A synthetic-augmented, fine-grained eviction classification dataset from EHRs | (*Arxiv'25*) SynthEHR-Eviction: Enhancing Eviction SDoH Detection with LLM-Augmented Synthetic EHR Data [[📝 Paper](https://arxiv.org/abs/2507.07421)] [[💻 Code](https://github.com/youxiazhao/sdoh_annotation)] |
 | RealCBT | 2025.8 | A dataset of CBT counseling dialogues that can support emotional dynamic analysis | (*Findings'25*) Feel the Difference? A Comparative Analysis of Emotional Arcs in Real and LLM-Generated CBT Sessions [[📝 Paper](https://aclanthology.org/2025.findings-emnlp.1089/)] [[💻 Code](https://gitlab.com/xiaoyi.wang/realcbt-dataset)] |
 ### 3.4 Multimodality
-
+| **Dataset** | **Year** | **Description** | **Source** |
+|--------|------|-------------|---------------|
+| **Interaction-Oriented Supportive Dialogue** || ||
+| MEDIC | 2023.10 | A multimodal Chinese counseling empathy dataset with text, audio, visuals | (*MM'23*) MEDIC: A Multimodal Empathy Dataset in Counseling [[📝 Paper](https://dl.acm.org/doi/10.1145/3581783.3612346)] [[💻 Code](https://ustc-ac.github.io/datasets/medic/)] |
+| MESC | 2024.10 | A multimodal English dataset for therapeutic emotional support conversations |
+| Mirror | 2025.5 | A multimodal CBT dataset with resistance-aware dialogues and consistent emotions |
+| **Behavior-Based Mental Health Detection** || |
+| AVEC 2013 | 2013.10 | A multimodal audio-visual dataset for continuous emotion and depression recognition |
+| SWELL-KW | 2014.11 | A multimodal office-work stress dataset with sensors and questionnaires |
+| Turkish BDC | 2018.5 | A Turkish multimodal corpus for bipolar disorder diagnosis and monitoring |
+| AVEC 2018 | 2018.10 | A multilingual, multimodal dataset for mental health and emotion recognition |
+| WESAD | 2018.10 | A multimodal wearable dataset for stress and emotion detection |
+| Multimodal stress | 2018.11 | A multimodal stress dataset with speech, hormones, and physiology |
+| TMDD | 2019.7 | A multimodal Twitter dataset for user-level depression detection |
+| E-DAIC | 2019.10 | A multilingual, multimodal dataset for mood, depression, cross-cultural emotion |
+| MuSE | 2020.5 | A multimodal English dataset for stress-aware emotion recognition |
+| WU3D | 2020.8 | A large-scale, multimodal, user-level depression detection dataset from Weibo |
+| Self-Adaptors | 2020.11 | An audio and visual interview dataset with distress labels and fidgeting behaviors |
+| UBFC-Phys | 2021.2 | A multimodal dataset for stress analysis with video, physiology, self-reports |
+| MuSe 2021 | 2021.10 | A multimodal emotion dataset with audio, video, text, and physiology |
+| MODMA | 2022.4 | A multimodal Chinese dataset for EEG and speech-based depression analysis |
+| D-vlog | 2022.6 | A multimodal YouTube vlog dataset for real-world depression detection |
+| CMDC | 2022.6 | A Chinese multimodal depression corpus with clinical, audio-video-text interviews |
+| Nurse Stress | 2022.6 | A real-world multimodal wearable dataset for nurse stress detection |
+| MuSe 2022 | 2022.6 | A multilingual, multimodal dataset for humor, emotion, and stress analysis |
+| EmpathicSchool | 2022.8 | A multimodal dataset combining facial expressions and physiological signals under stress |
+| PTSD-in-the-Wild | 2022.9 | A publicly available, annotated video dataset for PTSD recognition |
 ## 4. Benchmark
