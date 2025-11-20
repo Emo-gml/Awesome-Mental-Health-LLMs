@@ -32,12 +32,13 @@ to support the Awesome-Mental-Health-LLMs project ✨
       <h3 style="margin: 0;">LLM Applications in Mental Health Care</h3>
       <img src="image/application.jpg" width="350" style="margin-top: 10px;">
     </td>
-    <td align="center" style="padding-left: 100px;">
+    <td align="center" style="padding-left: 40px;">
       <h3 style="margin: 0;">Core components of a mental health LLM agent</h3>
       <img src="image/agent.jpg" width="350" style="margin-top: 10px;">
     </td>
   </tr>
 </table>
+
 
 
 
