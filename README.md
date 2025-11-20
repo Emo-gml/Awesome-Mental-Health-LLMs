@@ -108,7 +108,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*MM'24*) PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis [[📝 Paper](https://arxiv.org/abs/2408.09481/)]
 -  (*Arxiv'25*) Integrating Visual Modalities with Large Language Models for Mental Health Support [[📝 Paper](https://aclanthology.org/2025.coling-main.599/)]
 -  (*EMNLP'25*) MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance [[📝 Paper](https://arxiv.org/abs/2502.04976/)]
--  (*Arxiv'24*) Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning [[📝 Paper](https://arxiv.org/abs/2502.06873/))]
+-  (*NAACL'25*) Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning [[📝 Paper](https://arxiv.org/abs/2502.06873/))]
 
 
 
