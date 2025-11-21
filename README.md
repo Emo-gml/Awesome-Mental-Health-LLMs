@@ -53,7 +53,8 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 
 ## 💡 Welcome Contributions to **Mental-Health-LLMs**. 💡  
-If you discover any missing work or have any suggestions, please feel free to submit a pull request or contact us at **huhe@gml.ac.cn**. We will promptly add the missing papers to this repository.
+If you find missing work or have suggestions, feel free to open an issue or contact us at **huhe@gml.ac.cn**. We will promptly update the repository.
+
 
 
 
