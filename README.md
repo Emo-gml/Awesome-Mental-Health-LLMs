@@ -97,7 +97,7 @@ We would like to acknowledge the researchers, clinicians, and practitioners devo
 -  (*Arxiv'25*) Preference Learning Unlocks LLMs' Psycho-Counseling Skills [[📝 Paper](https://arxiv.org/abs/2502.19731)] [[💻 Code](https://huggingface.co/Psychotherapy-LLM)]
 -  (*Arxiv'25*) WundtGPT: Shaping Large Language Models To Be An Empathetic, Proactive Psychologist [[📝 Paper](https://arxiv.org/abs/2406.15474)] [[💻 Code](https://huggingface.co/CCCCCCCCY/WundtLLaMA)]
 -  (*Arxiv'25*) Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning [[📝 Paper](https://arxiv.org/abs/2508.10848)]
-### 2.2 Inference-Time Strategies for Eliciting Clinical Reasoning
+### 1.2 Inference-Time Strategies for Eliciting Clinical Reasoning
 -  (*Arxiv'25*) Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales [[📝 Paper](https://arxiv.org/abs/2508.10848)]
 -  (*Arxiv'25*) A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG [[📝 Paper](https://arxiv.org/abs/2503.24307)]
 -  (*Arxiv'24*) Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering [[📝 Paper](https://arxiv.org/abs/2402.05127)]
@@ -117,7 +117,7 @@ We would like to acknowledge the researchers, clinicians, and practitioners devo
 -  (*Arxiv'24*) STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2412.16674/)]
 -  (*Arxiv'25*) SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information [[📝 Paper](https://arxiv.org/abs/2502.10950/)]
 -  (*Arxiv'25*) Utilizing Large Language Models to Identify Evidence of Suicidality Risk through Analysis of Emotionally Charged Posts [[📝 Paper](https://aclanthology.org/2024.clpsych-1.26/)]
-### 3.3 Beyond Text: Integrating Multimodal Cues
+### 1.3 Beyond Text: Integrating Multimodal Cues
 -  (*NAACL'24*) Depression Detection in Clinical Interviews with LLM-Empowered Structural Element Graph [[📝 Paper](https://aclanthology.org/2024.naacl-long.452/)]
 -  (*Arxiv'25*) MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models [[📝 Paper](https://arxiv.org/abs/2507.05591/)]
 -  (*ICLR’25*) IT HEARS, IT SEES TOO: MULTI-MODAL LLM FOR DEPRESSION DETECTION BY INTEGRATING VISUAL UNDERSTANDING INTO AUDIO LANGUAGE MODELS [[📝 Paper](https://openreview.net/pdf?id=KA9StC9l3T/)]
