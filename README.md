@@ -29,6 +29,14 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 </div>
 
+### 💡 You are welcome to contribute your work on topics related to **Mental-Health-LLMs**. 💡  
+If you discover any missing work or have any suggestions, please feel free to submit a pull request or contact us at **huhe@gml.ac.cn**. We will promptly add the missing papers to this repository.
+
+
+
+## 🌱Acknowledgements
+
+We would like to acknowledge the researchers, clinicians, and practitioners devoted to advancing mental health and mental-health-oriented AI. In a time when mental health challenges continue to rise worldwide, their steady efforts have driven meaningful progress and made new possibilities achievable.
 
 </div>
 
@@ -269,13 +277,5 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 - (*CLPsych'24*) Therapist Self-Disclosure as a Natural Language Processing Task [[📝 Paper](https://aclanthology.org/2024.clpsych-1.5/)] [[💻 Code](https://github.com/NatalieShapira/TherapistSelfDisclosure)]
 - (*KDD'25*) MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance [[📝 Paper](https://dl.acm.org/doi/10.1145/3711896.3737393)] [[💻 Code](https://github.com/ChiaPatricia/MentalChat16K)]
 
-### 💡 You are welcome to contribute your work on topics related to **Mental-Health-LLMs**. 💡  
-If you discover any missing work or have any suggestions, please feel free to submit a pull request or contact us at **huhe@gml.ac.cn**. We will promptly add the missing papers to this repository.
-
-
-
-## 🌱Acknowledgements
-
-We would like to acknowledge the researchers, clinicians, and practitioners devoted to advancing mental health and mental-health-oriented AI. In a time when mental health challenges continue to rise worldwide, their steady efforts have driven meaningful progress and made new possibilities achievable.
 
 
