@@ -49,7 +49,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
   - [3.4 Multimodal Mental Health Resources](#34-multimodal-mental-health-resources)
 
 - [4. Benchmark](#4-benchmark)
-- [5. Acknowledgements](#5-Acknowledgements)
+- [Acknowledgements](#5-🌱Acknowledgements)
 
 
 </div>
