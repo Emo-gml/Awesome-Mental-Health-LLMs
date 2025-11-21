@@ -29,6 +29,28 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 </div>
 
+# Quick Link
+
+- [Large Language Models for Mental Health](#1-large-language-models-for-mental-health)
+  - [Core Methodologies for Model Adaptation](#11-core-methodologies-for-model-adaptation)
+  - [Inference-Time Strategies for Eliciting Clinical Reasoning](#12-inference-time-strategies-for-eliciting-clinical-reasoning)
+  - [Beyond Text: Integrating Multimodal Cues](#13-beyond-text-integrating-multimodal-cues)
+
+- [LLM-Based Agents](#2-llm-based-agents)
+  - [Enhancing Longitudinal Engagement and Personalization](#21-enhancing-longitudinal-engagement-and-personalization)
+  - [Integrating Clinical Frameworks and Therapeutic Modalities](#22-integrating-clinical-frameworks-and-therapeutic-modalities)
+  - [Leveraging Multi-Agent Architectures](#23-leveraging-multi-agent-architectures)
+  - [Ensuring Safety, Reliability, and Responsible Development](#24-ensuring-safety-reliability-and-responsible-development)
+
+- [Dataset](#3-dataset)
+  - [Mental Health Detection Resources](#31-mental-health-detection-resources)
+  - [Mental Health Dialogue Resources](#32-mental-health-dialogue-resources)
+  - [Other Mental Health Resources](#33-other-mental-health-resources)
+  - [Multimodal Mental Health Resources](#34-multimodal-mental-health-resources)
+
+- [Benchmark](#4-benchmark)
+
+
 ## 💡 You are welcome to contribute your work on topics related to **Mental-Health-LLMs**. 💡  
 If you discover any missing work or have any suggestions, please feel free to submit a pull request or contact us at **huhe@gml.ac.cn**. We will promptly add the missing papers to this repository.
 
