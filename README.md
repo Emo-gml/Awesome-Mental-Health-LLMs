@@ -29,26 +29,27 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 </div>
 
-# Quick Link
+## Quick Link
 
-- [Large Language Models for Mental Health](#1-large-language-models-for-mental-health)
-  - [Core Methodologies for Model Adaptation](#11-core-methodologies-for-model-adaptation)
-  - [Inference-Time Strategies for Eliciting Clinical Reasoning](#12-inference-time-strategies-for-eliciting-clinical-reasoning)
-  - [Beyond Text: Integrating Multimodal Cues](#13-beyond-text-integrating-multimodal-cues)
+- [1. Large Language Models for Mental Health](#1-large-language-models-for-mental-health)
+  - [1.1 Core Methodologies for Model Adaptation](#11-core-methodologies-for-model-adaptation)
+  - [1.2 Inference-Time Strategies for Eliciting-Clinical-Reasoning](#12-inference-time-strategies-for-eliciting-clinical-reasoning)
+  - [1.3 Beyond Text: Integrating Multimodal Cues](#13-beyond-text-integrating-multimodal-cues)
 
-- [LLM-Based Agents](#2-llm-based-agents)
-  - [Enhancing Longitudinal Engagement and Personalization](#21-enhancing-longitudinal-engagement-and-personalization)
-  - [Integrating Clinical Frameworks and Therapeutic Modalities](#22-integrating-clinical-frameworks-and-therapeutic-modalities)
-  - [Leveraging Multi-Agent Architectures](#23-leveraging-multi-agent-architectures)
-  - [Ensuring Safety, Reliability, and Responsible Development](#24-ensuring-safety-reliability-and-responsible-development)
+- [2. LLM-Based Agents](#2-llm-based-agents)
+  - [2.1 Enhancing Longitudinal Engagement and Personalization](#21-enhancing-longitudinal-engagement-and-personalization)
+  - [2.2 Integrating Clinical Frameworks and Therapeutic Modalities](#22-integrating-clinical-frameworks-and-therapeutic-modalities)
+  - [2.3 Leveraging Multi-Agent Architectures for Complex Reasoning and Interaction](#23-leveraging-multi-agent-architectures-for-complex-reasoning-and-interaction)
+  - [2.4 Ensuring Safety, Reliability, and Responsible Development](#24-ensuring-safety-reliability-and-responsible-development)
 
-- [Dataset](#3-dataset)
-  - [Mental Health Detection Resources](#31-mental-health-detection-resources)
-  - [Mental Health Dialogue Resources](#32-mental-health-dialogue-resources)
-  - [Other Mental Health Resources](#33-other-mental-health-resources)
-  - [Multimodal Mental Health Resources](#34-multimodal-mental-health-resources)
+- [3. Dataset](#3-dataset)
+  - [3.1 Mental Health Detection Resources](#31-mental-health-detection-resources)
+  - [3.2 Mental Health Dialogue Resources](#32-mental-health-dialogue-resources)
+  - [3.3 Other Mental Health Resources](#33-other-mental-health-resources)
+  - [3.4 Multimodal Mental Health Resources](#34-multimodal-mental-health-resources)
 
-- [Benchmark](#4-benchmark)
+- [4. Benchmark](#4-benchmark)
+
 
 
 ## 💡 You are welcome to contribute your work on topics related to **Mental-Health-LLMs**. 💡  
