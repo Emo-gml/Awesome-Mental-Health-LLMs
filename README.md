@@ -29,7 +29,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 </div>
 
-### 💡 You are welcome to contribute your work on topics related to **Mental-Health-LLMs**. 💡  
+## 💡 You are welcome to contribute your work on topics related to **Mental-Health-LLMs**. 💡  
 If you discover any missing work or have any suggestions, please feel free to submit a pull request or contact us at **huhe@gml.ac.cn**. We will promptly add the missing papers to this repository.
 
 
