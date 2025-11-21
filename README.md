@@ -50,13 +50,8 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 - [4. Benchmark](#4-benchmark)
 
-
-
-## 💡 Welcome Contributions to **Mental-Health-LLMs**. 💡  
-If you find missing work or have suggestions, feel free to open an issue or contact us at **huhe@gml.ac.cn**. We will promptly update the repository.
-
-
-
+## 💡 Welcome Contributions to **Mental-Health-LLMs** 💡  
+If you find missing work or have suggestions, feel free to open an issue or contact us at **huhe@gml.ac.cn** or **202230464076@mail.scut.edu.cn**. We will promptly update the repository.
 
 ## 🌱Acknowledgements
 
@@ -300,6 +295,7 @@ https://ckqqqq.github.io/Demo/Psy-Insight/)]
 - (*Arxiv'25*) Trust Modeling in Counseling Conversations: A Benchmark Study [[📝 Paper](https://arxiv.org/abs/2501.03064)]
 - (*CLPsych'24*) Therapist Self-Disclosure as a Natural Language Processing Task [[📝 Paper](https://aclanthology.org/2024.clpsych-1.5/)] [[💻 Code](https://github.com/NatalieShapira/TherapistSelfDisclosure)]
 - (*KDD'25*) MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance [[📝 Paper](https://dl.acm.org/doi/10.1145/3711896.3737393)] [[💻 Code](https://github.com/ChiaPatricia/MentalChat16K)]
+
 
 
 
