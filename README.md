@@ -25,7 +25,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 <img src="image/Tree.jpg">
 <br>
-<em>Figure: A visualization of the development trajectory of LLM-based mental health implementations from 2021 to 2025.</em>
+<em></em>
 
 </div>
 
