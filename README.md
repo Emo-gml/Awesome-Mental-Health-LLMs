@@ -102,7 +102,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 -  (*clpsych'24*) Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
 -  (*Arxiv'25*) Development and Evaluation of HopeBot: an LLM-based chatbot for structured and interactive PHQ-9 depression screening [[📝 Paper](https://arxiv.org/abs/2507.05984)]
 -  (*iwsds'25*) A Chatbot for Providing Suicide Prevention Information in Spanish [[📝 Paper](https://aclanthology.org/2025.iwsds-1.21/)]
--  (*Arxiv'24*) SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques [[📝 Paper] (https://arxiv.org/abs/2410.16322/)]
+-  (*Arxiv'24*) SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques [[📝 Paper](https://arxiv.org/abs/2410.16322/)]
 -  (*Arxiv'24*) Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice [[📝 Paper](https://aclanthology.org/2025.clpsych-1.23/)]
 -  (*Arxiv'24*) Retrieval-Enhanced Mental Health Assessment: Capturing Self-State Dynamics from Social Media Using In-Context Learning [[📝 Paper](https://aclanthology.org/2024.clpsych-1.20/)]
 -  (*Arxiv'24*) STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2412.16674/)]
