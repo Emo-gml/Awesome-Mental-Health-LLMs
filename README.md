@@ -32,8 +32,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 ---
 
-## 💙 From Pattern Recognizers to Personalized Companions:
-## A Survey of Large Language Models in Mental Health
+## 💙 From Pattern Recognizers to Personalized Companions:A Survey of Large Language Models in Mental Health
 
 📄 PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
