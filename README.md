@@ -27,7 +27,10 @@ to support the Awesome-Mental-Health-LLMs project ✨
 <br>
 <em></em>
 
-</div>
+</div
+
+## 💙 News
+PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
 ## Quick Link
 
