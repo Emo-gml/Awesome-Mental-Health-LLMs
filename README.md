@@ -29,7 +29,7 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 </div
 
-
+---
 ## 💙 From Pattern Recognizers to Personalized Companions  
 ### A Survey of Large Language Models in Mental Health
 
@@ -37,18 +37,15 @@ The rising global prevalence of mental health conditions—together with persist
 
 This survey provides an organized, developmental perspective on the role of LLMs in mental health, highlighting three evolving phases:
 
----
-
-## 🌱 Phase I — Information Tools & Pattern Recognizers
+### 🌱 Phase I — Information Tools & Pattern Recognizers
 LLMs operate primarily as assessment and pattern-recognition tools, supporting symptom identification, screening, and text-based mental health analysis.
 
-## 💬 Phase II — Empathetic Conversationalists
+### 💬 Phase II — Empathetic Conversationalists
 LLMs function as empathetic, supportive conversational partners, offering in-the-moment interaction and emotional support through stateless dialogue.
 
-## 🧭 Phase III — Longitudinal Personalized Companions
+### 🧭 Phase III — Longitudinal Personalized Companions
 LLMs evolve into stateful cognitive agents with profiles, memory, reasoning, and planning capabilities, enabling long-term, personalized mental health support.
 
----
 
 ## 📄 Paper
 PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
