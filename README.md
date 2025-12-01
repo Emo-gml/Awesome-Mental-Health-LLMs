@@ -31,9 +31,6 @@ to support the Awesome-Mental-Health-LLMs project ✨
 
 ---
 ## 💙 From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health
-
-The rising global prevalence of mental health conditions—together with persistent challenges such as limited clinical resources, high cost, stigma, and privacy concerns—has created an urgent demand for scalable and accessible support systems. Large Language Models (LLMs) offer a promising path forward due to their advanced natural language understanding and generation capabilities.
-
 ## 📄 Paper
 PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
