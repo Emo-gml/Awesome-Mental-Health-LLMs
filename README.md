@@ -33,6 +33,15 @@ to support the Awesome-Mental-Health-LLMs project ✨
 ## 💙 From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health
 PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
+## 📜 Citation
+```bib
+@article{hupattern,
+  title={From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health},
+  author={Hu, He and Zhou, Yucheng and Wang, Qianning and Zou, Yingjian and Ma, Chiyuan and Si, Juzheng and Liu, Jianzhuang and Yu, Zitong and Cui, Laizhong and Ma, Fei},
+  publisher={OSF},
+  year={2025}
+}
+```
 ---
 
 
@@ -306,13 +315,6 @@ If you find missing work or have suggestions, feel free to open an issue or cont
 
 We would like to acknowledge the researchers, clinicians, and practitioners devoted to advancing mental health and mental-health-oriented AI. In a time when mental health challenges continue to rise worldwide, their steady efforts have driven meaningful progress and made new possibilities achievable.
 
-## 📜 Citation
-```bib
-@article{hupattern,
-  title={From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health},
-  author={Hu, He and Zhou, Yucheng and Wang, Qianning and Zou, Yingjian and Ma, Chiyuan and Si, Juzheng and Liu, Jianzhuang and Yu, Zitong and Cui, Laizhong and Ma, Fei},
-  publisher={OSF}
-}
-```
+
 
 
