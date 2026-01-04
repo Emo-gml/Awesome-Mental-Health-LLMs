@@ -60,6 +60,8 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
   [[📝 Paper]]  
   结合领域继续预训练与可解释特征分解，用于抑郁症检测与临床可读分析。
 
+</details>
+
 ## Quick Link
 
 - [1. Large Language Models for Mental Health](#1-large-language-models-for-mental-health)
