@@ -46,10 +46,12 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 ## 🔄 Updates (2026, Ongoing)
 
 <details>
-<summary><strong>Update v1 · Initial Inclusion</strong></summary>
+<summary><strong>Update v1.1</strong></summary>
 
-- (*Arxiv'25*) **Bilateral RL for Psychological Reasoning: From Stimuli to Minds**  
-  [[📝 Paper]]  
+- (*AAAI'25*) From Stimuli to Minds: Enhancing Psychological Reasoning in LLMs
+via Bilateral Reinforcement Learning   
+  [[📝 Paper]]  [[📝 Paper](https://arxiv.org/pdf/2508.02458)] [[💻 Code](https://github.com/Githubuseryf/Stimuli2Minds)]
+- (*emnlp'25*) PanicToCalm: A Proactive Counseling Agent for Panic Attacks [[📝 Paper](https://aclanthology.org/2025.emnlp-main.649.pdf)] [[💻 Code](https://github.com/JihyunLee1/PanicToCalm)]
 
 </details>
 
