@@ -50,15 +50,6 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
 - (*Arxiv'25*) **Bilateral RL for Psychological Reasoning: From Stimuli to Minds**  
   [[📝 Paper]]  
-  双向奖励信号（情绪 → 推理 / 推理 → 情绪），用于强化心理状态—认知推理之间的因果链建模。
-
-- (*Arxiv'25*) **Preference Learning Unlocks LLMs’ Psycho-Counseling Skills**  
-  [[📝 Paper]] [[💻 Code]]  
-  通过偏好学习对齐心理咨询行为，强调咨询策略与回应风格的可解释偏好建模。
-
-- (*Arxiv'25*) **DepressLLM: Interpretable Domain-Adapted LLM for Depression Detection**  
-  [[📝 Paper]]  
-  结合领域继续预训练与可解释特征分解，用于抑郁症检测与临床可读分析。
 
 </details>
 
