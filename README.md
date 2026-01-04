@@ -43,7 +43,7 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 }
 ```
 ---
-## 🔄 Updates (2025, Ongoing)
+## 🔄 Updates (2026, Ongoing)
 
 <details>
 <summary><strong>Update v1 · Initial Inclusion</strong></summary>
