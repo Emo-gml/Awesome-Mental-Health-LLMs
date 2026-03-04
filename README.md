@@ -66,6 +66,8 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
 - (*ICLR'26*) CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answeringpdf icon [[📝 Paper](https://openreview.net/pdf?id=8MBYRZHVWT)]
 
+- From Medical Records to Diagnostic Dialogues: A Clinical-Grounded Approach and Dataset for Psychiatric Comorbidity  [[📝 Paper](https://openreview.net/pdf?id=sWWAZVHtke)]
+
 - (*Arxiv'26*) PSYCHEPASS: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments  [[📝 Paper](https://arxiv.org/abs/2601.20330)] 
 
 </details>
