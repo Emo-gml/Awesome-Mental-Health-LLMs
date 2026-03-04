@@ -64,6 +64,8 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
 - (*ICLR'26*) Can LLMs Move Beyond Short Exchanges to Realistic Therapy Conversations?  [[📝 Paper](https://openreview.net/attachment?id=3Bdl1wL1S3&name=pdf)]
 
+- (*ICLR'26*) CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answeringpdf icon [[📝 Paper](https://openreview.net/pdf?id=8MBYRZHVWT)]
+
 </details>
 
 
