@@ -51,7 +51,8 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 - (*EMNLP'25*) PanicToCalm: A Proactive Counseling Agent for Panic Attacks [[📝 Paper](https://aclanthology.org/2025.emnlp-main.649.pdf)] [[💻 Code](https://github.com/JihyunLee1/PanicToCalm)]
 - (*Arxiv'25*) Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2512.01282)] [[💻 Code](https://github.com/JhCircle/Kardia-R1)]
 - (*AAAI'26*) CARE-Bench: A Benchmark of Diverse Client Simulations Guided by Expert Principles for Evaluating LLMs in Psychological Counseling [[📝 Paper](https://arxiv.org/abs/2511.09407v1)] [[💻 Code](https://github.com/Syx1030/CARE-Bench?tab=readme-ov-file)]
-
+  
+<details>
 <summary><strong>Update v1.2</strong></summary>
 
 - (*ICLR'26*) Moving Beyond Medical Exams: A Clinician-Annotated Fairness Dataset of Real-World Tasks and Ambiguity in Mental Healthcare [[📝 Paper](https://openreview.net/pdf?id=tSy7OtONsg)]]
