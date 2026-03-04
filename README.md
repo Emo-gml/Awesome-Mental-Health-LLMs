@@ -60,11 +60,9 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 <details>
 <summary><strong>Update v1.2</strong></summary>
 
-- (*ICLR'26*) Moving Beyond Medical Exams: A Clinician-Annotated Fairness Dataset of Real-World Tasks and Ambiguity in Mental Healthcare  
-  [[📝 Paper](https://openreview.net/pdf?id=tSy7OtONsg)]
+- (*ICLR'26*) Moving Beyond Medical Exams: A Clinician-Annotated Fairness Dataset of Real-World Tasks and Ambiguity in Mental Healthcare  [[📝 Paper](https://openreview.net/pdf?id=tSy7OtONsg)]
 
-- (*ICLR'26*) Can LLMs Move Beyond Short Exchanges to Realistic Therapy Conversations?  
-  [[📝 Paper](https://openreview.net/attachment?id=3Bdl1wL1S3&name=pdf)]
+- (*ICLR'26*) Can LLMs Move Beyond Short Exchanges to Realistic Therapy Conversations?  [[📝 Paper](https://openreview.net/attachment?id=3Bdl1wL1S3&name=pdf)]
 
 </details>
 
