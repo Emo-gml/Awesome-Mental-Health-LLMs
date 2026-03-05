@@ -77,6 +77,13 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
 - (*Arxiv'26*) Empirical Modeling of Therapist-Client Dynamics in Psychotherapy Using LLM-Based Assessments  [[📝 Paper](https://arxiv.org/abs/2602.12450)]
 
+- (*Arxiv'26*) MentalSeek-Dx: Towards Progressive Hypothetico-Deductive Reasoning for Real-world Psychiatric Diagnosis  [[📝 Paper](https://arxiv.org/abs/2602.03340)]
+
+- (*Arxiv'25*) When Can We Trust LLMs in Mental Health? Large-Scale Benchmarks for Reliable LLM Evaluation  [[📝 Paper](https://arxiv.org/abs/2510.19032)]
+
+- (*Arxiv'25*) PsychBench: A comprehensive and professional benchmark for evaluating the performance of LLM-assisted psychiatric clinical practice  [[📝 Paper](https://arxiv.org/abs/2510.19032)]
+
+
 </details>
 
 
