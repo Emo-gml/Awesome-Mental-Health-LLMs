@@ -83,6 +83,7 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
 - (*Arxiv'25*) PsychBench: A comprehensive and professional benchmark for evaluating the performance of LLM-assisted psychiatric clinical practice  [[📝 Paper](https://arxiv.org/abs/2510.19032)]
 
+- (*Arxiv'26*) PatientHub: A Unified Framework for Patient Simulation  [[📝 Paper](https://arxiv.org/abs/2602.11684v1)]
 
 </details>
 
