@@ -72,6 +72,13 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v1
 
 </details>
 
+<details>
+<summary><strong>Update v1.3</strong></summary>
+
+- (*Arxiv'26*) Empirical Modeling of Therapist-Client Dynamics in Psychotherapy Using LLM-Based Assessments  [[📝 Paper](https://arxiv.org/abs/2602.12450)]
+
+</details>
+
 
 ## 🔗 Quick Links
 
