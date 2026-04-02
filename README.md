@@ -93,6 +93,22 @@ We would like to acknowledge the researchers, clinicians, and practitioners devo
 
 </details>
 
+<details>
+<summary><strong>Update v1.4</strong></summary>
+
+- (*WWW'26*) Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation  [[📝 Paper](https://arxiv.org/abs/2505.15255)] [[💻 Code](https://github.com/Yuansheng-Gao/MentalMAD?tab=readme-ov-file)]
+
+- (*KDD'26*) LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis  [[📝 Paper]( https://arxiv.org/abs/2602.09379)] [[💻 Code](https://huggingface.co/datasets/XuShihao6715/LingxiDiag-16K)]
+
+- (*EACL'26*) JiraiBench: A Cross-lingual Benchmark for Evaluating Large Language
+Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Paper](https://arxiv.org/pdf/2503.21679)]
+
+
+</details>
+
+
+
+
 
 ## 🔗 Quick Links
 
