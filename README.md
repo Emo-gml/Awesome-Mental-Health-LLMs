@@ -106,6 +106,18 @@ Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Pape
 
 </details>
 
+</details>
+
+<details>
+<summary><strong>Update v1.5</strong></summary>
+
+- (*IEEE SoutheastCon '26*) MHDash: An Online Platform for Benchmarking Mental Health-Aware AI Assistants  [[📝 Paper](https://arxiv.org/abs/2602.00353)]
+
+- (*ACL'26*) PsychEval: A Multi-Session and Multi-Therapy Benchmark for High-Realism AI Psychological Counselor  [[📝 Paper]( https://arxiv.org/html/2601.01802v1)] [[💻 Code](https://github.com/ECNU-ICALK/PsychEval)]
+
+</details>
+
+
 
 
 
