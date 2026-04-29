@@ -116,7 +116,7 @@ Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Pape
 </details>
 
 <details>
-<summary><strong>Update v1.5</strong></summary>
+<summary><strong>Update v1.6</strong></summary>
 
 - (*ACL'26*) MHSafeEval: Role-Aware Interaction-Level Evaluation of Mental Health Safety in Large Language Models  [[📝 Paper](https://arxiv.org/abs/2604.17730)]
 
