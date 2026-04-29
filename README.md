@@ -106,8 +106,6 @@ Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Pape
 
 </details>
 
-</details>
-
 <details>
 <summary><strong>Update v1.5</strong></summary>
 
