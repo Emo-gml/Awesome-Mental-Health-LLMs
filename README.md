@@ -120,7 +120,9 @@ Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Pape
 
 - (*ACL'26*) MHSafeEval: Role-Aware Interaction-Level Evaluation of Mental Health Safety in Large Language Models  [[📝 Paper](https://arxiv.org/abs/2604.17730)]
 
-- (*ACL'26*) PUPPET: Neural-Symbolic Standardized Patients for Mental Health  [[📝 Paper]( https://openreview.net/forum?id=m4mhft8nAa#discussion)] 
+- (*ACL'26*) PUPPET: Neural-Symbolic Standardized Patients for Mental Health  [[📝 Paper]( https://openreview.net/forum?id=m4mhft8nAa#discussion)]
+
+- (*Arxiv'26*) Synthetic or Authentic? Building Mental Patient Simulators from Longitudinal Evidence  [[📝 Paper]( https://arxiv.org/abs/2603.22704)]
 
 </details>
 
