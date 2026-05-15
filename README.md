@@ -35,11 +35,12 @@ PsyArXiv: https://osf.io/preprints/psyarxiv/zr57s_v2
 
 ## 📜 Citation
 ```bib
-@article{hupattern,
+@article{hu2026pattern,
   title={From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health},
-  author={Hu, He and Zhou, Yucheng and Wang, Qianning and Zou, Yingjian and Ma, Chiyuan and Si, Juzheng and Liu, Jianzhuang and Yu, Zitong and Cui, Laizhong and Ma, Fei},
-  publisher={OSF},
-  year={2025}
+  author={Hu, He and Zhou, Yucheng and Wang, Qianning and Zou, Yingjian and Ma, Chiyuan and Si, Juzheng and Liu, Jianzhuang and Yu, Zitong and Cui, Laizhong and Ma, Fei and others},
+  journal={IEEE Transactions on Affective Computing},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 ---
