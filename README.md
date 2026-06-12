@@ -135,7 +135,7 @@ Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Pape
 - (*CSCW'26*) "When I see Jodie, I feel relaxed": Examining the Impact of a Virtual Supporter in Remote Psychotherapy  [[📝 Paper](https://arxiv.org/abs/2604.16003)]
 
 - (*ACL-Workshop'26*) MHGraphBench: Knowledge Graph-Grounded Benchmarking of Mental Health Knowledge in Large Language Models  [[📝 Paper](https://arxiv.org/abs/2605.15589)]
-- 
+  
 - (*IEEE TAC'26*) MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation  [[📝 Paper](https://arxiv.org/abs/2606.11197)]
 </details>
 
