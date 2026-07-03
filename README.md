@@ -230,7 +230,7 @@ Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Pape
 -  (*MM'24*) PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis [[📝 Paper](https://arxiv.org/abs/2408.09481/)]
 -  (*TMM'24*)  Towards Multimodal Emotional Support Conversation Systems [[📝 Paper](https://arxiv.org/abs/2408.03650)] [[💻 Code](https://github.com/chuyq/MESC/?tab=readme-ov-file)]
 -  (*Coling'25*) Integrating Visual Modalities with Large Language Models for Mental Health Support [[📝 Paper](https://aclanthology.org/2025.coling-main.599/)]
--  (*EMNLP'25*) MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance [[📝 Paper](https://arxiv.org/abs/2502.04976/)] [[💻 Code](
+-  (*EMNLP'25*) MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance [[📝 Paper](https://aclanthology.org/2025.emnlp-main.751/)] [[💻 Code](
 https://github.com/nobel-postech/mirror)]
 -  (*NAACL'25*) Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning [[📝 Paper](https://arxiv.org/abs/2502.06873/))] [[💻 Code](https://github.com/nobel-postech/M2CoSC)]
 
