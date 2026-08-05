@@ -139,6 +139,19 @@ Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Pape
 - (*IEEE TAC'26*) MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation  [[📝 Paper](https://arxiv.org/abs/2606.11197)]
 </details>
 
+<details>
+<summary><strong>Update v1.8</strong></summary>
+
+- (*NPJ*) PsyEval: a comprehensive large language model evaluation benchmark for mental health  [[📝 Paper](https://www.nature.com/articles/s44184-026-00227-0)]
+
+- (*Arxiv'26*) MMHBench: A Multi-Perspective Benchmark for Mental Health Understanding in Long-Form Videos  [[📝 Paper](https://arxiv.org/abs/2607.27895)]
+
+- (*Arxiv'26*) Mental World Modeling  [[📝 Paper](https://arxiv.org/abs/2607.27201)]
+  
+- (*Arxiv'26*) CBT-Audio: Evaluating Audio Language Models for Patient-Side Distress Intensity Estimation in CBT Session Recordings  [[📝 Paper](https://arxiv.org/abs/2605.17370)]
+</details>
+
+
 
 
 
