@@ -154,31 +154,17 @@ Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Pape
 <details>
 <summary><strong>Update v1.9</strong></summary>
 
-- (*OpenAI'26*) MentalHealthBench: An Expert-Informed Benchmark of AI Capabilities in Realistic Mental Health Conversations  
-  [[📝 Blog](https://openai.com/index/introducing-mentalhealthbench/)] 
-  [[📄 Paper](https://cdn.openai.com/ctf-cdn/MentalHealthBench_A_Comprehensive_Benchmark_of_AI_Capabilities_in_Realistic_Mental_Health_Conversations.pdf)]
-  [[📊 Dataset](https://cdn.openai.com/ctf-cdn/OAI_MentalHealthBench.zip)]
+- (*OpenAI'26*) MentalHealthBench: An Expert-Informed Benchmark of AI Capabilities in Realistic Mental Health Conversations  [[📝 Blog](https://openai.com/index/introducing-mentalhealthbench/)] [[📄 Paper](https://cdn.openai.com/ctf-cdn/MentalHealthBench_A_Comprehensive_Benchmark_of_AI_Capabilities_in_Realistic_Mental_Health_Conversations.pdf)][[📊 Dataset](https://cdn.openai.com/ctf-cdn/OAI_MentalHealthBench.zip)]
 
-- (*EMNLP'26*) MIND: An Evidence-State Decision Interface for Criteria-Grounded Psychiatric Inquiry and Diagnosis  
-  [[📝 Paper](https://arxiv.org/abs/2603.03677)] 
-  [[💻 Code](https://github.com/Lingxi-mental-health/MIND)]
+- (*EMNLP'26*) MIND: An Evidence-State Decision Interface for Criteria-Grounded Psychiatric Inquiry and Diagnosis  [[📝 Paper](https://arxiv.org/abs/2603.03677)] [[💻 Code](https://github.com/Lingxi-mental-health/MIND)]
 
-- (*EMNLP'26*) Steering the Compass: Aligning Dynamic Psychological Counseling Conversations with Cognitive Behavioral Therapy Strategies  
-  [[📝 Paper](https://arxiv.org/abs/2609.20565)] 
-  [[💻 Code/Dataset](https://github.com/zimuwangnlp/StratCBT)]
+- (*EMNLP'26*) Steering the Compass: Aligning Dynamic Psychological Counseling Conversations with Cognitive Behavioral Therapy Strategies   [[📝 Paper](https://arxiv.org/abs/2609.20565)]  [[💻 Code/Dataset](https://github.com/zimuwangnlp/StratCBT)]
 
-- (*Arxiv'26*) Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States  
-  [[📝 Paper](https://arxiv.org/abs/2609.15972)] 
-  [[💻 Code](https://github.com/wannabeyourfriend/mind2dialogue)]
-  [[🌐 Project](https://wannabeyourfriend.github.io/mind2dialogue/)]
+- (*Arxiv'26*) Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States  [[📝 Paper](https://arxiv.org/abs/2609.15972)] [[💻 Code](https://github.com/wannabeyourfriend/mind2dialogue)][[🌐 Project](https://wannabeyourfriend.github.io/mind2dialogue/)]
 
-- (*AACL Findings'26*) RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems  
-  [[📝 Paper](https://arxiv.org/abs/2609.09657)] 
-  [[💻 Code](https://github.com/Tomsawyerhu/RESCUE-bench)]
+- (*AACL Findings'26*) RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems  [[📝 Paper](https://arxiv.org/abs/2609.09657)] [[💻 Code](https://github.com/Tomsawyerhu/RESCUE-bench)]
 
-- (*Arxiv'26*) LongCounsel-8: A Benchmark Suite for Longitudinal Depression Tracking from Multi-Session Counseling Dialogues  
-  [[📝 Paper](https://arxiv.org/abs/2609.03507)] 
-  [[🤗 Dataset](https://huggingface.co/datasets/hiddensev/LongCounsel-8)]
+- (*Arxiv'26*) LongCounsel-8: A Benchmark Suite for Longitudinal Depression Tracking from Multi-Session Counseling Dialogues  [[📝 Paper](https://arxiv.org/abs/2609.03507)] [[🤗 Dataset](https://huggingface.co/datasets/hiddensev/LongCounsel-8)]
 
 </details>
 
