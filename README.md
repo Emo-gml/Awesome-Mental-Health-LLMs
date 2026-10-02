@@ -179,7 +179,6 @@ Models’ Detection of Human Risky Health Behavior Content in Jirai  [[📝 Pape
 - (*Arxiv'26*) LongCounsel-8: A Benchmark Suite for Longitudinal Depression Tracking from Multi-Session Counseling Dialogues  
   [[📝 Paper](https://arxiv.org/abs/2609.03507)] 
   [[🤗 Dataset](https://huggingface.co/datasets/hiddensev/LongCounsel-8)]
-
 <details>
 
 
